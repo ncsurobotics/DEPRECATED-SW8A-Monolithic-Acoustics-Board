@@ -1,0 +1,11 @@
+CSV text has been written to file : Acoustics.csv
+
+Library Component Count : 4
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+2N3906              PNP General Purpose Amplifier
+Cap                 Capacitor
+LT-LTC1564-G-16     Single Channel, Digitally Controlled Antialiasing Filter and 4-Bit PGA, 0.15 MHz Typical GBW, 2.7 to 10.5 V, 16-Pin SOP (G16), Industrial, Pb-Free
+LT-LTC6910-TS8-8    Single Channel, Digitally Controlled Programmable Gain Amplifier, 11 MHz Typical GBW, 16 V/us Typical SR, 2.7 to 11 V, 8-Pin SOT23 (TS8-8), Commercial, Pb-Free, Mini Reel
