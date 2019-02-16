@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=Fan-2
-Removed Member From Class: ClassName=Backplane Board Member=Fan
-Added Pin To Net: NetName=Fan Power Pin=P3A-4
-Added Pin To Net: NetName=Fan Power Pin=P3A-4
-Added Pin To Net: NetName=Fan Power Pin=P4A-1
-Added Net: Name=Fan Power

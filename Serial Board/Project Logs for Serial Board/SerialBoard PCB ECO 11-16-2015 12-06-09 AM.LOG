@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=UART3_RX Pin=X3D-13
-Added Pin To Net: NetName=UART3_TX Pin=X3D-15
-Added Pin To Net: NetName=UART<-ACOUSTICS Pin=X3D-17
-Added Pin To Net: NetName=UART->ACOUSTICS Pin=X3D-19

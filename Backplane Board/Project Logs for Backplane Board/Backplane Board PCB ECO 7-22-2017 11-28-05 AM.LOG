@@ -1,5 +1,0 @@
-Added Component: Designator=X6A(1x2 Header)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=12V (COMPUTER) Pin=X6A-1
-Added Pin To Net: NetName=GND Pin=X6A-2
-Added Member To Class: ClassName=Backplane Board Member=Component X6A Header

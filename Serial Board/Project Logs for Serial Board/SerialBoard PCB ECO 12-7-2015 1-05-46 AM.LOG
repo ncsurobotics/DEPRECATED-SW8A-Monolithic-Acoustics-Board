@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetC17D_2 Pin=Y1D-1
-Removed Pin From Net: NetName=NetC16D_2 Pin=Y1D-2
-Added Pin To Net: NetName=NetC16D_2 Pin=Y1D-1
-Added Pin To Net: NetName=NetC17D_2 Pin=Y1D-2
-Added Room: Name=ATXMega32 Master
-Added Room: Name=Serial Board Overview

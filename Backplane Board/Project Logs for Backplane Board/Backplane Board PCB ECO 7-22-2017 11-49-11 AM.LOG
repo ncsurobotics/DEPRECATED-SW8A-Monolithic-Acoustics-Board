@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=S.KILLSWITCH Pin=X4A-1
-Removed Pin From Net: NetName=NetP8A_1 Pin=X4A-2
-Removed Pin From Net: NetName=S.KILLSWITCH Pin=X4A-3
-Removed Pin From Net: NetName=NetP8A_1 Pin=X4A-4
-Removed Member From Class: ClassName=Backplane Board Member=X4A
-Change Component Comment : Designator=P11A Old Comment=Fan Connector New Comment=Secondary Kill Switch
-Added Pin To Net: NetName=S.KILLSWITCH Pin=P11A-1
-Added Pin To Net: NetName=NetP8A_1 Pin=P11A-2
-Added Member To Class: ClassName=Backplane Board Member=Component P11A Secondary Kill Switch

@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=RS232.IMU.DOWNSTREAM Pin=X3D-12
-Removed Pin From Net: NetName=RS232.IMU.DOWNSTREAM Pin=X3D-13
-Removed Pin From Net: NetName=RS232.IMU.UPSTREAM Pin=X3D-14
-Removed Pin From Net: NetName=RS232.IMU.UPSTREAM Pin=X3D-15
-Added Pin To Net: NetName=RS232.IMU.UPSTREAM Pin=X3D-12
-Added Pin To Net: NetName=RS232.IMU.UPSTREAM Pin=X3D-13
-Added Pin To Net: NetName=RS232.IMU.DOWNSTREAM Pin=X3D-14
-Added Pin To Net: NetName=RS232.IMU.DOWNSTREAM Pin=X3D-15

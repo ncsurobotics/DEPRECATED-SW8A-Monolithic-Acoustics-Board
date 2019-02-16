@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=P1A Old Footprint=ICV 2,5/10-G-5 New Footprint=ICV 2,5/10-G-5,08
-Change Component Comment : Designator=P2A Old Comment=Conversion Board Header New Comment=Conversion Board
-Change Component Comment : Designator=Serial board Header Old Comment=M50-4301045 New Comment=Serial Board
-Change Component Comment : Designator=P1A Old Comment=Power Board Header New Comment=Power Board
-Change Component Comment : Designator=P4A Old Comment=Sensor Board Header New Comment=Sensor Board
-Change Component Designator: OldDesignator=Serial board Header NewDesignator=P5A
-Change Component Library : Designator=P4A Old Library=URC_Lib.IntLib New Library=URC.SchLib
-Change Component Library : Designator=P5A Old Library=URC_Lib.IntLib New Library=URC.SchLib

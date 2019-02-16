@@ -1,4 +1,0 @@
-Added Component: Designator=R2(R0805)
-Added Pin To Net: NetName=NetR1_1 Pin=R2-1
-Added Pin To Net: NetName=NetR2_2 Pin=R2-2
-Added Member To Class: ClassName=USB to Serial Member=Component R2 Resistor

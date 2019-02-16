@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=9V Pin=X5-14
-Removed Pin From Net: NetName=ACOUSTICS_TX Pin=X5-15
-Removed Pin From Net: NetName=ACOUSTICS_RX Pin=X5-17
-Added Pin To Net: NetName=ACOUSTICS_TX Pin=X5-14
-Added Pin To Net: NetName=ACOUSTICS_RX Pin=X5-16
-Added Pin To Net: NetName=9V Pin=X5-18

@@ -1,9 +1,0 @@
-Added Component: Designator=C1(RAD-0.3)
-Added Component: Designator=U3(AP1117)
-Added Pin To Net: NetName=GND Pin=C1-1
-Added Pin To Net: NetName=3V3 Pin=C1-2
-Added Pin To Net: NetName=5V Pin=U3-VIN
-Added Pin To Net: NetName=3V3 Pin=U3-VOUT
-Added Pin To Net: NetName=3V3 Pin=U3-VOUT
-Added Member To Class: ClassName=Sensor Overview Member=Component C1 Cap
-Added Member To Class: ClassName=Sensor Overview Member=Component U3 AP1117E33

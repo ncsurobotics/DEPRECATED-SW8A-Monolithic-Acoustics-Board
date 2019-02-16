@@ -1,6 +1,0 @@
-Added Component: Designator=F1(Protected Fuse Clip)
-Added Component: Designator=F2(Protected Fuse Clip)
-Added Component: Designator=F3(Protected Fuse Clip)
-Added Member To Class: ClassName=Backplane Board Member=Component F1 Fuse
-Added Member To Class: ClassName=Backplane Board Member=Component F2 Fuse
-Added Member To Class: ClassName=Backplane Board Member=Component F3 Fuse

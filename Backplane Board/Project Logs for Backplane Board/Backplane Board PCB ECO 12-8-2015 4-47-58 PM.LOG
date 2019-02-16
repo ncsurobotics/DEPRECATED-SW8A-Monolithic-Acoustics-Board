@@ -1,7 +1,0 @@
-Added Component: Designator=X5A(2x2 Header w/ division)
-Added Pin To Net: NetName=VSENSE.COMPUTER Pin=X5A-1
-Added Pin To Net: NetName=VSENSE.COMPUTER Pin=X5A-3
-Added Pin To Net: NetName=NetX5A_2 Pin=X5A-2
-Added Pin To Net: NetName=NetX5A_2 Pin=X5A-4
-Added Net: Name=NetX5A_2
-Added Member To Class: ClassName=Backplane Board Member=Component X5A Header

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetC2D_1 Pin=C2D-1
-Added Pin To Net: NetName=NetC2D_1 Pin=C2D-2
-Change Net Name : Old Net Name=NetC2D_1 New Net Name=NetC2D_2
-Added Pin To Net: NetName=NetC2D_1 Pin=C2D-1
-Added Pin To Net: NetName=NetC2D_1 Pin=U4D-21
-Added Net: Name=NetC2D_1

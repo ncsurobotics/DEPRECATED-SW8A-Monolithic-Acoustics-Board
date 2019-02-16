@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C1-1
-Removed Pin From Net: NetName=3V3 Pin=C1-2
-Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=C0402
-Change Component Comment : Designator=C1 Old Comment=Cap New Comment=.1uF
-Added Pin To Net: NetName=3V3 Pin=C1-1
-Added Pin To Net: NetName=GND Pin=C1-2

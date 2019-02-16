@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=P1 Old Footprint=M50-4301045 New Footprint=1954731
-Change Component Comment : Designator=P1 Old Comment=M50-4301045 New Comment=Header 6
-Added Pin To Net: NetName=NetC5_1 Pin=P1-1
-Added Pin To Net: NetName=NetPSU1_3 Pin=P1-2
-Added Pin To Net: NetName=12V Pin=P1-3
-Added Pin To Net: NetName=NetC7_1 Pin=P1-4
-Added Pin To Net: NetName=NetC9_1 Pin=P1-5
-Added Pin To Net: NetName=GND Pin=P1-6
-Change Net Name : Old Net Name=NetPSU1_3 New Net Name=NetP1_2

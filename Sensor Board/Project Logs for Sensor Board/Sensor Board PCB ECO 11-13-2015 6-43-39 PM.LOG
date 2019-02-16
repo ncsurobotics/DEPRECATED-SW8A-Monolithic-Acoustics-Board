@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=5V Pin=U3E-GND
-Removed Pin From Net: NetName=5V Pin=U3E-None
-Removed Pin From Net: NetName=5V Pin=U3E-VOUT
-Added Pin To Net: NetName=GND Pin=U3E-GND
-Added Pin To Net: NetName=3V3 Pin=U3E-VOUT

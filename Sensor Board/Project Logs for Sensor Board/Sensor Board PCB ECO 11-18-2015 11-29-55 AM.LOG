@@ -1,6 +1,0 @@
-Added Component: Designator=U3E(AP1117)
-Added Pin To Net: NetName=GND Pin=U3E-GND
-Added Pin To Net: NetName=5V Pin=U3E-VIN
-Added Pin To Net: NetName=3V3 Pin=U3E-VOUT
-Added Pin To Net: NetName=3V3 Pin=U3E-VOUT
-Added Member To Class: ClassName=Sensor Overview Member=Component U3E AP1117E33G-13

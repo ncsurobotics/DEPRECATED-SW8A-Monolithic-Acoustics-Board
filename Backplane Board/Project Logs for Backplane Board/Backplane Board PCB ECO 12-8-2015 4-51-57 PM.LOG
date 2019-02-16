@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VSENSE.COMPUTER Pin=X5A-3
-Change Component Footprint: Designator=X5A Old Footprint=2x2 Header w/ division New Footprint=1x2 Header
-Added Pin To Net: NetName=VSENSE.COMPUTER Pin=X5A-2

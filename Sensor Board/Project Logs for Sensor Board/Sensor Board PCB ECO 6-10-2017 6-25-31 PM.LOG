@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=SCL Pin=P?-7
-Removed Pin From Net: NetName=SCL Pin=X3E-1
-Removed Pin From Net: NetName=SCL Pin=X4E-1
-Added Pin To Net: NetName=9V Pin=P?-7
-Added Pin To Net: NetName=9V Pin=X3E-1
-Added Pin To Net: NetName=9V Pin=X4E-1
-Added Net: Name=9V
-Added Member To Class: ClassName=Sensor Overview Member=Component H1E Holes - x inch

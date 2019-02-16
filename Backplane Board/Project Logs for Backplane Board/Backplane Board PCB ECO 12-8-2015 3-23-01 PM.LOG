@@ -1,5 +1,0 @@
-Added Component: Designator=X4A(2x2 Header w/ division)
-Added Pin To Net: NetName=S.KILLSWITCH Pin=X4A-1
-Added Pin To Net: NetName=GND Pin=X4A-2
-Added Pin To Net: NetName=S.KILLSWITCH Pin=X4A-3
-Added Member To Class: ClassName=Backplane Board Member=Component X4A Header
