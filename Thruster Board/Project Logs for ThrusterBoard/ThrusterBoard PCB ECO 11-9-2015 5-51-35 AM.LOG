@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V_ISO Pin=P1-2
+Removed Pin From Net: NetName=SDA Pin=P1-3
+Removed Pin From Net: NetName=SCL Pin=P1-4
+Removed Pin From Net: NetName=24V_GND Pin=P1-5
+Change Component Footprint: Designator=P1 Old Footprint=MSTBA 2,5/ 5-G-5,08 New Footprint=1954731
+Change Component Comment : Designator=P1 Old Comment=Header 5 New Comment=Header 6
+Added Pin To Net: NetName=5V_ISO Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=P1-4
+Added Pin To Net: NetName=SCL Pin=P1-5
+Added Pin To Net: NetName=24V_GND Pin=P1-6
+Added Pin To Net: NetName=VR POWER Pin=P1-2
+Added Net: Name=VR POWER

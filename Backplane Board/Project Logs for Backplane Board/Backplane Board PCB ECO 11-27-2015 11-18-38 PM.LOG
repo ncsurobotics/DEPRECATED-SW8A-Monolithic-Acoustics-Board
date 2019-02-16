@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=Serial board Header-16
+Removed Pin From Net: NetName=D- Pin=Serial board Header-17
+Removed Pin From Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=Serial board Header-18
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=Serial board Header-8
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=Serial board Header-9
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=Serial board Header-10
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=Serial board Header-11
+Added Pin To Net: NetName=UART.IMU.UPSTREAM Pin=Serial board Header-12
+Added Pin To Net: NetName=UART.IMU.UPSTREAM Pin=Serial board Header-13
+Added Pin To Net: NetName=UART.IMU.DOWNSTREAM Pin=Serial board Header-14
+Added Pin To Net: NetName=UART.IMU.DOWNSTREAM Pin=Serial board Header-15
+Added Pin To Net: NetName=5V USB Pin=Serial board Header-16
+Added Pin To Net: NetName=5V USB Pin=Serial board Header-17
+Added Pin To Net: NetName=D- Pin=Serial board Header-18
+Change Net Name : Old Net Name=UART.IMU.DOWNSTREAM New Net Name=RS232.IMU.DOWNSTREAM
+Change Net Name : Old Net Name=UART.IMU.UPSTREAM New Net Name=RS232.IMU.UPSTREAM

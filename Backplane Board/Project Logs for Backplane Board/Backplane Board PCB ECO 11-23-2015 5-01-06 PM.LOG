@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=P8A Old DesignItemId=Molex Header 6, 53375-0610 New DesignItemId=Molex Header 8, 43045-0812
+Change Component Footprint: Designator=P8A Old Footprint=53375-0610 header w/ plug New Footprint=43045-0812 Microfit Header w/ plug
+Change Component Comment : Designator=P8A Old Comment=Molex Header 6, 53375-0610 New Comment=Computer Power Header

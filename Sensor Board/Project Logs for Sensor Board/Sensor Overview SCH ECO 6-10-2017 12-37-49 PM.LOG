@@ -1,0 +1,3 @@
+Remove Pin=P?-2 From Net=Acoustics_RX
+Remove Pin=P?-3 From Net=Acoustics_TX
+Remove Pin=X5E-3 From Net=SCL

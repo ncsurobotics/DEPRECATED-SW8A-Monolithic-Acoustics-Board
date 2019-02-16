@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=NetF1F_M1_2 Pin=MC1F_M1-V+
+Removed Pin From Net: NetName=NetF1F_M1_2 Pin=MC1F_M1-V+
+Removed Pin From Net: NetName=NetF1F_M2_2 Pin=MC1F_M2-V+
+Removed Pin From Net: NetName=NetF1F_M2_2 Pin=MC1F_M2-V+
+Removed Pin From Net: NetName=NetF1F_M3_2 Pin=MC1F_M3-V+
+Removed Pin From Net: NetName=NetF1F_M3_2 Pin=MC1F_M3-V+
+Removed Pin From Net: NetName=NetF1F_M4_2 Pin=MC1F_M4-V+
+Removed Pin From Net: NetName=NetF1F_M4_2 Pin=MC1F_M4-V+
+Removed Pin From Net: NetName=NetF1F_M5_2 Pin=MC1F_M5-V+
+Removed Pin From Net: NetName=NetF1F_M5_2 Pin=MC1F_M5-V+
+Removed Pin From Net: NetName=NetF1F_M6_2 Pin=MC1F_M6-V+
+Removed Pin From Net: NetName=NetF1F_M6_2 Pin=MC1F_M6-V+
+Added Component: Designator=Jp1F_M1(Jumper, 8AWG, 0.75")
+Added Component: Designator=Jp1F_M2(Jumper, 8AWG, 0.75")
+Added Component: Designator=Jp1F_M3(Jumper, 8AWG, 0.75")
+Added Component: Designator=Jp1F_M4(Jumper, 8AWG, 0.75")
+Added Component: Designator=Jp1F_M5(Jumper, 8AWG, 0.75")
+Added Component: Designator=Jp1F_M6(Jumper, 8AWG, 0.75")
+Added Pin To Net: NetName=NetF1F_M1_2 Pin=Jp1F_M1-1
+Added Pin To Net: NetName=NetF1F_M1_2 Pin=Jp1F_M1-1
+Added Pin To Net: NetName=NetF1F_M2_2 Pin=Jp1F_M2-1
+Added Pin To Net: NetName=NetF1F_M2_2 Pin=Jp1F_M2-1
+Added Pin To Net: NetName=NetF1F_M3_2 Pin=Jp1F_M3-1
+Added Pin To Net: NetName=NetF1F_M3_2 Pin=Jp1F_M3-1
+Added Pin To Net: NetName=NetF1F_M4_2 Pin=Jp1F_M4-1
+Added Pin To Net: NetName=NetF1F_M4_2 Pin=Jp1F_M4-1
+Added Pin To Net: NetName=NetF1F_M5_2 Pin=Jp1F_M5-1
+Added Pin To Net: NetName=NetF1F_M5_2 Pin=Jp1F_M5-1
+Added Pin To Net: NetName=NetF1F_M6_2 Pin=Jp1F_M6-1
+Added Pin To Net: NetName=NetF1F_M6_2 Pin=Jp1F_M6-1
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=Jp1F_M1-1
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=Jp1F_M1-1
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=MC1F_M1-V+
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=MC1F_M1-V+
+Added Net: Name=NetJp1F_M1_1
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=Jp1F_M2-1
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=Jp1F_M2-1
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=MC1F_M2-V+
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=MC1F_M2-V+
+Added Net: Name=NetJp1F_M2_1
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=Jp1F_M3-1
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=Jp1F_M3-1
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=MC1F_M3-V+
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=MC1F_M3-V+
+Added Net: Name=NetJp1F_M3_1
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=Jp1F_M4-1
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=Jp1F_M4-1
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=MC1F_M4-V+
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=MC1F_M4-V+
+Added Net: Name=NetJp1F_M4_1
+Added Pin To Net: NetName=NetJp1F_M5_1 Pin=Jp1F_M5-1
+Added Pin To Net: NetName=NetJp1F_M5_1 Pin=Jp1F_M5-1
+Added Pin To Net: NetName=NetJp1F_M5_1 Pin=MC1F_M5-V+
+Added Pin To Net: NetName=NetJp1F_M5_1 Pin=MC1F_M5-V+
+Added Net: Name=NetJp1F_M5_1
+Added Pin To Net: NetName=NetJp1F_M6_1 Pin=Jp1F_M6-1
+Added Pin To Net: NetName=NetJp1F_M6_1 Pin=Jp1F_M6-1
+Added Pin To Net: NetName=NetJp1F_M6_1 Pin=MC1F_M6-V+
+Added Pin To Net: NetName=NetJp1F_M6_1 Pin=MC1F_M6-V+
+Added Net: Name=NetJp1F_M6_1
+Added Pin To Net: NetName=NetP6F_3 Pin=P6F-3
+Added Pin To Net: NetName=NetP6F_3 Pin=P8F-3
+Added Net: Name=NetP6F_3
+Added Member To Class: ClassName=M1 Member=Component Jp1F_M1 (Jp1F) Jumper
+Added Member To Class: ClassName=M2 Member=Component Jp1F_M2 (Jp1F) Jumper
+Added Member To Class: ClassName=M3 Member=Component Jp1F_M3 (Jp1F) Jumper
+Added Member To Class: ClassName=M4 Member=Component Jp1F_M4 (Jp1F) Jumper
+Added Member To Class: ClassName=M5 Member=Component Jp1F_M5 (Jp1F) Jumper
+Added Member To Class: ClassName=M6 Member=Component Jp1F_M6 (Jp1F) Jumper
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M1_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M2_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M3_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M4_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M5_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M6_1

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=24V Pin=Pa1F-1
+Removed Pin From Net: NetName=24V Pin=Pa3F-1
+Added Pin To Net: NetName=VR POWER Pin=Pa1F-1
+Added Pin To Net: NetName=VR POWER Pin=Pa3F-1
+Added Member To Class: ClassName=ThrusterPower Member=Wire VR POWER

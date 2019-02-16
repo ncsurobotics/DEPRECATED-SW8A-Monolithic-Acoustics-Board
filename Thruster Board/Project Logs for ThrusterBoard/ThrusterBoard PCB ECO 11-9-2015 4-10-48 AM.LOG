@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=24V Pin=F1_M5-1
+Removed Pin From Net: NetName=24V Pin=F1_M5-1
+Removed Pin From Net: NetName=24V Pin=F1_M6-1
+Removed Pin From Net: NetName=24V Pin=F1_M6-1
+Removed Pin From Net: NetName=P5 Pin=MC1_M5-DIR
+Removed Pin From Net: NetName=24V_GND Pin=MC1_M5-GND
+Removed Pin From Net: NetName=24V_GND Pin=MC1_M5-GND
+Removed Pin From Net: NetName=24V_GND Pin=MC1_M5-GND
+Removed Pin From Net: NetName=D5 Pin=MC1_M5-PWM
+Removed Pin From Net: NetName=P6 Pin=MC1_M6-DIR
+Removed Pin From Net: NetName=24V_GND Pin=MC1_M6-GND
+Removed Pin From Net: NetName=24V_GND Pin=MC1_M6-GND
+Removed Pin From Net: NetName=24V_GND Pin=MC1_M6-GND
+Removed Pin From Net: NetName=D6 Pin=MC1_M6-PWM
+Removed Member From Class: ClassName=B[1..6] Member=B5
+Removed Member From Class: ClassName=ThrusterPower Member=B5
+Removed Member From Class: ClassName=B[1..6] Member=B6
+Removed Member From Class: ClassName=ThrusterPower Member=B6
+Removed Member From Class: ClassName=ThrusterPower Member=D5
+Removed Member From Class: ClassName=ThrusterPower Member=D6
+Removed Member From Class: ClassName=ThrusterPower Member=NetF1_M5_2
+Removed Member From Class: ClassName=ThrusterPower Member=NetF1_M6_2
+Removed Member From Class: ClassName=ThrusterPower Member=NetMC1_M5_5V
+Removed Member From Class: ClassName=ThrusterPower Member=NetMC1_M6_5V
+Removed Member From Class: ClassName=ThrusterPower Member=P5
+Removed Member From Class: ClassName=ThrusterPower Member=P6
+Change Class Name : Old Net Name=B[1..6] New Net Name=B[1..4]
+Change Class Name : Old Net Name=D[1..6] New Net Name=D[1..4]
+Change Class Name : Old Net Name=P[1..6] New Net Name=P[1..4]

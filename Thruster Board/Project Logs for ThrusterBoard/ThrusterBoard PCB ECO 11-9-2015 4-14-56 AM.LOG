@@ -1,0 +1,16 @@
+Added Member To Class: ClassName=A[1..6] Member=Element[5]: A
+Added Member To Class: ClassName=ThrusterPower Member=Element[5]: A
+Added Member To Class: ClassName=A[1..6] Member=Element[6]: A
+Added Member To Class: ClassName=ThrusterPower Member=Element[6]: A
+Added Member To Class: ClassName=B[1..6] Member=Element[5]: B
+Added Member To Class: ClassName=ThrusterPower Member=Element[5]: B
+Added Member To Class: ClassName=B[1..6] Member=Element[6]: B
+Added Member To Class: ClassName=ThrusterPower Member=Element[6]: B
+Added Member To Class: ClassName=ThrusterPower Member=Element[5]: D
+Added Member To Class: ClassName=ThrusterPower Member=Element[6]: D
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetF1_M5_2
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetF1_M6_2
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetMC1_M5_5V
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetMC1_M6_5V
+Added Member To Class: ClassName=ThrusterPower Member=Element[5]: P
+Added Member To Class: ClassName=ThrusterPower Member=Element[6]: P

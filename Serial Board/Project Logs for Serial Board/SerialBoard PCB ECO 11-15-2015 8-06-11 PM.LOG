@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=U1D-1
+Removed Pin From Net: NetName=3V3 Pin=U1D-2
+Removed Pin From Net: NetName=3V3 Pin=U1D-2
+Removed Pin From Net: NetName=3V3 Pin=U1D-3
+Change Component Footprint: Designator=U1D Old Footprint= New Footprint=AP1117
+Added Pin To Net: NetName=GND Pin=U1D-GND
+Added Pin To Net: NetName=5V Pin=U1D-VIN
+Added Pin To Net: NetName=3V3 Pin=U1D-VOUT
+Added Pin To Net: NetName=3V3 Pin=U1D-VOUT

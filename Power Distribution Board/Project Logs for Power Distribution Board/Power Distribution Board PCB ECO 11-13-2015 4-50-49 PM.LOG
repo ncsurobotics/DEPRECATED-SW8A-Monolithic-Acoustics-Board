@@ -1,0 +1,8 @@
+Added Component: Designator=P9(MSTBA 2,5 6-G-5,08)
+Added Pin To Net: NetName=NetF1_2 Pin=P9-1
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetC4_1 Pin=P9-3
+Added Pin To Net: NetName=NetC7_1 Pin=P9-4
+Added Pin To Net: NetName=NetC9_1 Pin=P9-5
+Added Pin To Net: NetName=GND Pin=P9-6
+Added Member To Class: ClassName=Power Distribution Board Member=Component P9 Header 6

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C2C Old Footprint=C1210 New Footprint=C1206
+Change Component Footprint: Designator=C1C Old Footprint=SMD-10MM New Footprint=EEE-FP1C331AP
+Change Component Comment : Designator=C2C Old Comment=Cap New Comment=TY 2.2uF, Ceramic MLCC
+Change Component Comment : Designator=C1C Old Comment=CapPol New Comment=Panasonic 330uF, Radial Can

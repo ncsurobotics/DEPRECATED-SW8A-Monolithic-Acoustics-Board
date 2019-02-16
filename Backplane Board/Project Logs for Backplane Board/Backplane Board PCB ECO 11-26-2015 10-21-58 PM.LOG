@@ -1,0 +1,116 @@
+Removed Member From Class: ClassName=Backplane Board Member=F4A
+Change Component Comment : Designator=P8A Old Comment=Computer Power Header New Comment=Computer Power + USB Connector
+Change Component Comment : Designator=P2A Old Comment=Header 6 New Comment=Conversion Board Header
+Change Component Comment : Designator=P6A Old Comment=Header 6 New Comment=Thruster Board
+Change Component Comment : Designator=P1A Old Comment=Header 10 New Comment=Power Board Header
+Change Component Comment : Designator=P4A Old Comment=M50-4301045 New Comment=Sensor Board Header
+Change Component Comment : Designator=P9A Old Comment=Molex Header 2,  53375-0210 New Comment=Kill Switch Connector
+Change Component Comment : Designator=P7A Old Comment=Molex Header 4, 43160-2104 New Comment=Main Battery Connector
+Change Component Comment : Designator=P3A Old Comment=Molex Header, 431602103 New Comment=12V Converter Connector
+Change Component Designator: OldDesignator=P5A NewDesignator=Serial board Header
+Added Pin To Net: NetName=5V Pin=P2A-5
+Added Pin To Net: NetName=5V Pin=P2A-5
+Added Pin To Net: NetName=5V Pin=P4A-2
+Added Pin To Net: NetName=5V Pin=P6A-3
+Added Pin To Net: NetName=5V Pin=P6A-3
+Added Pin To Net: NetName=5V Pin=Serial board Header-6
+Added Pin To Net: NetName=5V Pin=Serial board Header-7
+Added Net: Name=5V
+Added Pin To Net: NetName=5V USB Pin=P8A-5
+Added Net: Name=5V USB
+Added Pin To Net: NetName=9V Pin=P2A-3
+Added Pin To Net: NetName=9V Pin=P2A-3
+Added Pin To Net: NetName=9V Pin=P4A-7
+Added Net: Name=9V
+Added Pin To Net: NetName=12V (BLDC SYSTEM) Pin=P3A-1
+Added Pin To Net: NetName=12V (BLDC SYSTEM) Pin=P3A-1
+Added Pin To Net: NetName=12V (BLDC SYSTEM) Pin=P6A-2
+Added Pin To Net: NetName=12V (BLDC SYSTEM) Pin=P6A-2
+Added Net: Name=12V (BLDC SYSTEM)
+Added Pin To Net: NetName=12V (COMPUTER) Pin=P2A-4
+Added Pin To Net: NetName=12V (COMPUTER) Pin=P2A-4
+Added Pin To Net: NetName=12V (COMPUTER) Pin=P8A-1
+Added Net: Name=12V (COMPUTER)
+Added Pin To Net: NetName=24V (ELECTRONIC SYSTEMS) Pin=P1A-5
+Added Pin To Net: NetName=24V (ELECTRONIC SYSTEMS) Pin=P1A-5
+Added Pin To Net: NetName=24V (ELECTRONIC SYSTEMS) Pin=P2A-6
+Added Pin To Net: NetName=24V (ELECTRONIC SYSTEMS) Pin=P2A-6
+Added Net: Name=24V (ELECTRONIC SYSTEMS)
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P1A-6
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P1A-6
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P1A-7
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P1A-7
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P3A-2
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P3A-2
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P6A-1
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=P6A-1
+Added Net: Name=24V (MOTOR SUB-SYSTEM)
+Added Pin To Net: NetName=BATT BUS A Pin=P1A-3
+Added Pin To Net: NetName=BATT BUS A Pin=P1A-3
+Added Pin To Net: NetName=BATT BUS A Pin=P1A-4
+Added Pin To Net: NetName=BATT BUS A Pin=P1A-4
+Added Pin To Net: NetName=BATT BUS A Pin=P7A-1
+Added Pin To Net: NetName=BATT BUS A Pin=P7A-1
+Added Net: Name=BATT BUS A
+Added Pin To Net: NetName=BATT BUS B Pin=P1A-1
+Added Pin To Net: NetName=BATT BUS B Pin=P1A-1
+Added Pin To Net: NetName=BATT BUS B Pin=P1A-2
+Added Pin To Net: NetName=BATT BUS B Pin=P1A-2
+Added Pin To Net: NetName=BATT BUS B Pin=P7A-2
+Added Pin To Net: NetName=BATT BUS B Pin=P7A-2
+Added Net: Name=BATT BUS B
+Added Pin To Net: NetName=D+ Pin=P8A-6
+Added Pin To Net: NetName=D+ Pin=Serial board Header-19
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=P8A-7
+Added Pin To Net: NetName=D- Pin=Serial board Header-17
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=P1A-10
+Added Pin To Net: NetName=GND Pin=P1A-10
+Added Pin To Net: NetName=GND Pin=P2A-1
+Added Pin To Net: NetName=GND Pin=P2A-1
+Added Pin To Net: NetName=GND Pin=P3A-3
+Added Pin To Net: NetName=GND Pin=P3A-3
+Added Pin To Net: NetName=GND Pin=P4A-4
+Added Pin To Net: NetName=GND Pin=P6A-6
+Added Pin To Net: NetName=GND Pin=P6A-6
+Added Pin To Net: NetName=GND Pin=P7A-3
+Added Pin To Net: NetName=GND Pin=P7A-3
+Added Pin To Net: NetName=GND Pin=P7A-4
+Added Pin To Net: NetName=GND Pin=P7A-4
+Added Pin To Net: NetName=GND Pin=P8A-8
+Added Pin To Net: NetName=GND Pin=P9A-1
+Added Pin To Net: NetName=GND Pin=Serial board Header-1
+Added Pin To Net: NetName=GND Pin=Serial board Header-20
+Added Net: Name=GND
+Added Pin To Net: NetName=S.KILLSWITCH Pin=P9A-2
+Added Net: Name=S.KILLSWITCH
+Added Pin To Net: NetName=SCL Pin=P1A-9
+Added Pin To Net: NetName=SCL Pin=P1A-9
+Added Pin To Net: NetName=SCL Pin=P4A-6
+Added Pin To Net: NetName=SCL Pin=P6A-5
+Added Pin To Net: NetName=SCL Pin=P6A-5
+Added Pin To Net: NetName=SCL Pin=Serial board Header-2
+Added Pin To Net: NetName=SCL Pin=Serial board Header-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1A-8
+Added Pin To Net: NetName=SDA Pin=P1A-8
+Added Pin To Net: NetName=SDA Pin=P4A-8
+Added Pin To Net: NetName=SDA Pin=P6A-4
+Added Pin To Net: NetName=SDA Pin=P6A-4
+Added Pin To Net: NetName=SDA Pin=Serial board Header-4
+Added Pin To Net: NetName=SDA Pin=Serial board Header-5
+Added Net: Name=SDA
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P4A-5
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=Serial board Header-16
+Added Net: Name=UART.ACOUSTICS.DOWNSTREAM
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P4A-3
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=Serial board Header-18
+Added Net: Name=UART.ACOUSTICS.UPSTREAM
+Added Pin To Net: NetName=UART.IMU.DOWNSTREAM Pin=P4A-12
+Added Net: Name=UART.IMU.DOWNSTREAM
+Added Pin To Net: NetName=UART.IMU.UPSTREAM Pin=P4A-14
+Added Net: Name=UART.IMU.UPSTREAM
+Added Pin To Net: NetName=VSENSE.COMPUTER Pin=P8A-2
+Added Net: Name=VSENSE.COMPUTER
+Added Room: Name=Backplane Board

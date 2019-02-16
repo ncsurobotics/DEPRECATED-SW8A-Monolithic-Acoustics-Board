@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P10A Old Comment=Kill Switch Connector New Comment=Fan Connector
+Added Pin To Net: NetName=12V (Computer) Pin=P10A-1
+Added Pin To Net: NetName=GND Pin=P10A-2
+Added Member To Class: ClassName=Backplane Board Member=Component P10A Fan Connector

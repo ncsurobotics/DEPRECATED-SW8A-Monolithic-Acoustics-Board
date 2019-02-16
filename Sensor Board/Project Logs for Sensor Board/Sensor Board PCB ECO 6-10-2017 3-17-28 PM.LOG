@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=IMU_RX Pin=P7A-8
+Removed Pin From Net: NetName=IMU_RX Pin=P7A-8
+Removed Pin From Net: NetName=IMU_RX Pin=X3E-3
+Added Component: Designator=H1E(110mil Holes - 1.0 Inch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IMU_TX Pin=P7A-8
+Added Pin To Net: NetName=IMU_TX Pin=P7A-8
+Added Pin To Net: NetName=IMU_TX Pin=X3E-3
+Added Net: Name=IMU_TX
+Added Member To Class: ClassName=Sensor Overview Member=Component H1E Holes - x inch

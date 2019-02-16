@@ -1,0 +1,4 @@
+Added Component: Designator=P7(HDR1X3 - Female - Molex)
+Added Component: Designator=P8(HDR1X3 - Female - Molex)
+Added Member To Class: ClassName=U_Microcontroller Member=Component P7 Header 3 - Female - Molex
+Added Member To Class: ClassName=U_Microcontroller Member=Component P8 Header 3 - Female - Molex

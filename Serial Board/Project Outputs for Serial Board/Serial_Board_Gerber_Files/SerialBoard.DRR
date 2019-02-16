@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SerialBoard.PcbDoc   12/14/2015  3:38:20 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SerialBoard.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          59               10.03 Inch (254.74 mm)
+T2        20.6mil (0.52324mm)      Round          20               1.35 Inch (34.29 mm)
+T3        35.4mil (0.89916mm)      Round          2                0.14 Inch (3.50 mm)
+T4        40mil (1.016mm)          Round          6                0.50 Inch (12.70 mm)
+T5        110mil (2.794mm)         Round          2                1.00 Inch (25.40 mm)
+---------------------------------------------------------------------------
+Totals                                            89               13.02 Inch (330.63 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

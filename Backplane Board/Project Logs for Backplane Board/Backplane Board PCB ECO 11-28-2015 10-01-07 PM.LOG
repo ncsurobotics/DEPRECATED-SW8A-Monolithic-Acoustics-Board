@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=F3A-1
+Removed Pin From Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=F3A-1
+Removed Pin From Net: NetName=NetF3A_2 Pin=F3A-2
+Removed Pin From Net: NetName=NetF3A_2 Pin=F3A-2
+Change Component Footprint: Designator=P1A Old Footprint=ICV 2,5/10-G-5 New Footprint=ICV 2,5/10-G-5,08
+Change Component Comment : Designator=P2A Old Comment=Conversion Board Header New Comment=Conversion Board
+Change Component Comment : Designator=F1A Old Comment=Fuse New Comment=PN3588
+Change Component Comment : Designator=F2A Old Comment=Fuse New Comment=PN3588
+Change Component Comment : Designator=F3A Old Comment=Fuse New Comment=PN3588
+Change Component Comment : Designator=P1A Old Comment=Power Board Header New Comment=Power Board
+Added Pin To Net: NetName=NetF3A_2 Pin=F3A-1
+Added Pin To Net: NetName=NetF3A_2 Pin=F3A-1
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=F3A-2
+Added Pin To Net: NetName=24V (MOTOR SUB-SYSTEM) Pin=F3A-2
+Change Net Name : Old Net Name=NetF3A_2 New Net Name=NetF3A_1

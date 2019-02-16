@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=U1F-CE
+Change Component Footprint: Designator=H1F Old Footprint=Holes - 1.75 Inch New Footprint=Holes - 3 Inch
+Change Component Footprint: Designator=U1F Old Footprint=XC6701B332MR New Footprint=MCP1804T-3302I/OT
+Change Component Comment : Designator=U1F Old Comment=XC6701B332 New Comment=MCP1804T-3302I/OT
+Added Component: Designator=H2F(Holes - 3 Inch)
+Added Pin To Net: NetName=5V Pin=U1F-SHDN
+Added Member To Class: ClassName=Motor Control Member=Component H2F Holes - 3 inch

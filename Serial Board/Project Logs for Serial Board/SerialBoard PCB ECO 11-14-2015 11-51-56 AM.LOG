@@ -1,0 +1,54 @@
+Change Component Designator: OldDesignator=C1D NewDesignator=C2D
+Change Component Designator: OldDesignator=C2D NewDesignator=C3D
+Change Component Designator: OldDesignator=C3D NewDesignator=C4D
+Change Component Designator: OldDesignator=C4D NewDesignator=C5D
+Change Component Designator: OldDesignator=C5D NewDesignator=C6D
+Change Component Designator: OldDesignator=C6D NewDesignator=C7D
+Change Component Designator: OldDesignator=C7D NewDesignator=C8D
+Change Component Designator: OldDesignator=C8D NewDesignator=C9D
+Change Component Designator: OldDesignator=C9D NewDesignator=C10D
+Change Component Designator: OldDesignator=C10D NewDesignator=C11D
+Change Component Designator: OldDesignator=C11D NewDesignator=C12D
+Change Component Designator: OldDesignator=C12D NewDesignator=C13D
+Change Component Designator: OldDesignator=C13D NewDesignator=C14D
+Change Component Designator: OldDesignator=C14D NewDesignator=C15D
+Change Component Designator: OldDesignator=C15D NewDesignator=C16D
+Change Component Designator: OldDesignator=C16D NewDesignator=C17D
+Change Component Designator: OldDesignator=C17D NewDesignator=C18D
+Change Component Designator: OldDesignator=C18D NewDesignator=C19D
+Change Component Designator: OldDesignator=C19D NewDesignator=C20D
+Change Component Designator: OldDesignator=C20D NewDesignator=C21D
+Change Component Designator: OldDesignator=C21D NewDesignator=C22D
+Change Component Designator: OldDesignator=C22D NewDesignator=C23D
+Change Component Designator: OldDesignator=C23D NewDesignator=C24D
+Change Component Designator: OldDesignator=C24D NewDesignator=C25D
+Change Component Designator: OldDesignator=U1D NewDesignator=U2D
+Change Component Designator: OldDesignator=U2D NewDesignator=U3D
+Change Component Designator: OldDesignator=U3D NewDesignator=U4D
+Added Component: Designator=C1D(C0805)
+Added Component: Designator=U1D(AP1117)
+Added Pin To Net: NetName=3V3 Pin=C1D-1
+Added Pin To Net: NetName=GND Pin=U1D-GND
+Added Pin To Net: NetName=3V3 Pin=U1D-VOUT
+Added Pin To Net: NetName=3V3 Pin=U1D-VOUT
+Change Net Name : Old Net Name=NetC1D_1 New Net Name=NetC2D_1
+Change Net Name : Old Net Name=NetC1D_2 New Net Name=NetC2D_2
+Change Net Name : Old Net Name=NetC6D_1 New Net Name=NetC7D_1
+Change Net Name : Old Net Name=NetC7D_1 New Net Name=NetC8D_1
+Change Net Name : Old Net Name=NetC10D_1 New Net Name=NetC11D_1
+Change Net Name : Old Net Name=NetC10D_2 New Net Name=NetC11D_2
+Change Net Name : Old Net Name=NetC11D_1 New Net Name=NetC12D_1
+Change Net Name : Old Net Name=NetC13D_1 New Net Name=NetC14D_1
+Change Net Name : Old Net Name=NetC13D_2 New Net Name=NetC14D_2
+Change Net Name : Old Net Name=NetC14D_1 New Net Name=NetC15D_1
+Change Net Name : Old Net Name=NetC16D_1 New Net Name=NetC17D_1
+Change Net Name : Old Net Name=NetC17D_1 New Net Name=NetC18D_1
+Change Net Name : Old Net Name=NetU1D_16 New Net Name=NetU2D_16
+Change Net Name : Old Net Name=NetU1D_17 New Net Name=NetU2D_17
+Change Net Name : Old Net Name=NetU2D_11 New Net Name=NetU3D_11
+Change Net Name : Old Net Name=NetU2D_12 New Net Name=NetU3D_12
+Change Net Name : Old Net Name=NetU3D_7 New Net Name=NetU4D_7
+Change Net Name : Old Net Name=NetU3D_8 New Net Name=NetU4D_8
+Added Pin To Net: NetName=5V Pin=U1D-VIN
+Added Net: Name=5V
+Added Class: Name=Serial Board Overview

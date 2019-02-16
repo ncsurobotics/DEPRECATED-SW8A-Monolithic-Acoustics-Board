@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=O1_U1 Old Footprint=8-SMD New Footprint=SSOP8 Lite-on
+Change Component Footprint: Designator=O1_U2 Old Footprint=8-SMD New Footprint=SSOP8 Lite-on
+Change Component Footprint: Designator=O1_U3 Old Footprint=8-SMD New Footprint=SSOP8 Lite-on
+Change Component Footprint: Designator=O1_U4 Old Footprint=8-SMD New Footprint=SSOP8 Lite-on
+Change Component Footprint: Designator=O1_U5 Old Footprint=8-SMD New Footprint=SSOP8 Lite-on
+Change Component Footprint: Designator=O1_U6 Old Footprint=8-SMD New Footprint=SSOP8 Lite-on
+Change Component Comment : Designator=O1_U1 Old Comment=LTV-826 New Comment=LTV-827
+Change Component Comment : Designator=O1_U2 Old Comment=LTV-826 New Comment=LTV-827
+Change Component Comment : Designator=O1_U3 Old Comment=LTV-826 New Comment=LTV-827
+Change Component Comment : Designator=O1_U4 Old Comment=LTV-826 New Comment=LTV-827
+Change Component Comment : Designator=O1_U5 Old Comment=LTV-826 New Comment=LTV-827
+Change Component Comment : Designator=O1_U6 Old Comment=LTV-826 New Comment=LTV-827
+Added Component: Designator=X3(1-770972-0)
+Added Pin To Net: NetName=A1 Pin=X3-1
+Added Pin To Net: NetName=A2 Pin=X3-2
+Added Pin To Net: NetName=A3 Pin=X3-3
+Added Pin To Net: NetName=A4 Pin=X3-4
+Added Pin To Net: NetName=A5 Pin=X3-5
+Added Pin To Net: NetName=A6 Pin=X3-6
+Added Pin To Net: NetName=B1 Pin=X3-7
+Added Pin To Net: NetName=B2 Pin=X3-8
+Added Pin To Net: NetName=B3 Pin=X3-9
+Added Pin To Net: NetName=B4 Pin=X3-10
+Added Pin To Net: NetName=B5 Pin=X3-11
+Added Pin To Net: NetName=B6 Pin=X3-12
+Added Member To Class: ClassName=Motor Control Member=Component X3 1-770972-0

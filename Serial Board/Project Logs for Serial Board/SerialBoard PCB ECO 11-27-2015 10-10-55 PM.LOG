@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=RS232.IMU.UPSTREAM Pin=U3D-13
+Added Pin To Net: NetName=RS232.IMU.DOWNSTREAM Pin=U3D-14

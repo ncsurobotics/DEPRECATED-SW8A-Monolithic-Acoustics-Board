@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=ThrusterPower Member=NetPa2F_1
+Added Pin To Net: NetName=24V Pin=Pa1F-1
+Added Pin To Net: NetName=GND Pin=Pa2F-1
+Added Pin To Net: NetName=24V Pin=Pa3F-1
+Added Pin To Net: NetName=GND Pin=Pa4F-1
+Added Member To Class: ClassName=ThrusterPower Member=Wire GND

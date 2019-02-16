@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ThrusterBoard.PcbDoc]
+   Generated File[ThrusterBoard.TXT]
+   Generated File[ThrusterBoard-BoardEdgeRout.TXT]
+   Generated File[ThrusterBoard.LDP]
+   Generated File[ThrusterBoard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:33:26 PM On 12/14/2015

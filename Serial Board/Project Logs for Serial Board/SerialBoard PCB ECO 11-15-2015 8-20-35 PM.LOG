@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetU2D_7 Pin=X3D-8
+Removed Pin From Net: NetName=NetU2D_7 Pin=X3D-9
+Removed Pin From Net: NetName=NetU2D_10 Pin=X3D-10
+Removed Pin From Net: NetName=NetU2D_10 Pin=X3D-11
+Added Pin To Net: NetName=NetU2D_10 Pin=X3D-8
+Added Pin To Net: NetName=NetU2D_10 Pin=X3D-9
+Added Pin To Net: NetName=NetU2D_7 Pin=X3D-10
+Added Pin To Net: NetName=NetU2D_7 Pin=X3D-11
+Added Room: Name=Serial Board Overview

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12V Pin=P1-3
+Change Component Designator: OldDesignator=P1 NewDesignator=BP?
+Change Net Name : Old Net Name=12V New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetBP?_1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetBP?_4
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetBP?_5
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetBP?_2
+Added Pin To Net: NetName=NetBP?_3 Pin=BP?-3
+Added Net: Name=NetBP?_3
+Change Class Name : Old Net Name=Overview New Net Name=Power Distribution Board

@@ -1,0 +1,269 @@
+Removed Pin From Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P7A-2
+Removed Pin From Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P7A-3
+Removed Pin From Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P7A-4
+Removed Pin From Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P7A-5
+Removed Pin From Net: NetName=9V Pin=P7A-6
+Removed Pin From Net: NetName=5V Pin=P7A-10
+Removed Pin From Net: NetName=5V Pin=P7A-11
+Removed Pin From Net: NetName=SCL Pin=P7A-12
+Removed Pin From Net: NetName=SCL Pin=P7A-13
+Removed Pin From Net: NetName=SDA Pin=P7A-14
+Removed Pin From Net: NetName=SDA Pin=P7A-15
+Removed Pin From Net: NetName=RS232.IMU.DOWNSTREAM Pin=P7A-16
+Removed Pin From Net: NetName=RS232.IMU.DOWNSTREAM Pin=P7A-17
+Removed Pin From Net: NetName=RS232.IMU.UPSTREAM Pin=P7A-18
+Removed Pin From Net: NetName=RS232.IMU.UPSTREAM Pin=P7A-19
+Removed Pin From Net: NetName=GND Pin=P7A-20
+Removed Pin From Net: NetName=GND Pin=P9A-1
+Removed Pin From Net: NetName=SCL Pin=P9A-2
+Removed Pin From Net: NetName=SCL Pin=P9A-3
+Removed Pin From Net: NetName=SDA Pin=P9A-4
+Removed Pin From Net: NetName=SDA Pin=P9A-5
+Removed Pin From Net: NetName=5V Pin=P9A-6
+Removed Pin From Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P9A-8
+Removed Pin From Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P9A-9
+Removed Pin From Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P9A-10
+Removed Pin From Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P9A-11
+Removed Pin From Net: NetName=RS232.IMU.UPSTREAM Pin=P9A-12
+Removed Pin From Net: NetName=RS232.IMU.UPSTREAM Pin=P9A-13
+Removed Pin From Net: NetName=RS232.IMU.DOWNSTREAM Pin=P9A-14
+Removed Pin From Net: NetName=RS232.IMU.DOWNSTREAM Pin=P9A-15
+Removed Pin From Net: NetName=5V USB Pin=P9A-16
+Removed Pin From Net: NetName=5V USB Pin=P9A-17
+Removed Pin From Net: NetName=D- Pin=P9A-18
+Removed Pin From Net: NetName=D+ Pin=P9A-19
+Removed Pin From Net: NetName=GND Pin=P9A-20
+Change Component Footprint: Designator=P7A Old Footprint=M50-4301045 - DUPLICATE New Footprint=ICV 2,5/10-G-5,08
+Change Component Footprint: Designator=P9A Old Footprint=M50-4301045 - DUPLICATE New Footprint=ICV 2,5/10-G-5,08
+Change component parameters: Designator = "P2A"; Footprint = "ICV 2,5/10-G-5,08"; UniqueID = "\WIFYOTCF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/528338.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/528338.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "PHOENIX CONTACT - ICV 2,5/10-G-5,08 - TERMINAL BLOCK, SOCKET, 10POS, TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ICV 2,5/10-G-5,08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=9.77, 10=9.51, 25=9.26, 50=8.89, 100=8.17, 250=7.55, 500=7.2, 1000=6.4 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "69R9559"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3A"; Footprint = "ICV 2,5/ 6-G-5,08"; UniqueID = "\MVHGRJOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/528336.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/528336.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "PHOENIX CONTACT - ICV 2,5/ 6-G-5,08 - TERMINAL BLOCK, SOCKET, 6POS, TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ICV 2,5/ 6-G-5,08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=5.83, 10=5.67, 25=5.52, 50=5.3, 100=4.87, 250=4.5, 500=4.29, 1000=3.82 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "69R9557"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5A"; Footprint = "ICV 2,5/ 6-G-5,08"; UniqueID = "\VFSBYYSM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/528336.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/528336.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "PHOENIX CONTACT - ICV 2,5/ 6-G-5,08 - TERMINAL BLOCK, SOCKET, 6POS, TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ICV 2,5/ 6-G-5,08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=5.83, 10=5.67, 25=5.52, 50=5.3, 100=4.87, 250=4.5, 500=4.29, 1000=3.82 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "69R9557"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P7A"; Footprint = "ICV 2,5/10-G-5,08"; UniqueID = "\KFAGAWVM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/528338.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/528338.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "PHOENIX CONTACT - ICV 2,5/10-G-5,08 - TERMINAL BLOCK, SOCKET, 10POS, TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ICV 2,5/10-G-5,08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=9.77, 10=9.51, 25=9.26, 50=8.89, 100=8.17, 250=7.55, 500=7.2, 1000=6.4 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "69R9559"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P9A"; Footprint = "ICV 2,5/10-G-5,08"; UniqueID = "\KXWCRICQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/528338.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/528338.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "PHOENIX CONTACT - ICV 2,5/10-G-5,08 - TERMINAL BLOCK, SOCKET, 10POS, TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ICV 2,5/10-G-5,08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=9.77, 10=9.51, 25=9.26, 50=8.89, 100=8.17, 250=7.55, 500=7.2, 1000=6.4 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "69R9559"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1A"; Footprint = "Protected Fuse Clip"; UniqueID = "\PHJPIGWS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3588 - FUSE HOLDER, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3588"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.929, 50=0.783, 100=0.75, 250=0.686, 500=0.66, 1000=0.572, 2500=0.497, 5000=0.481 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5061"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F2A"; Footprint = "Protected Fuse Clip"; UniqueID = "\XVXQVLVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3588 - FUSE HOLDER, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3588"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.929, 50=0.783, 100=0.75, 250=0.686, 500=0.66, 1000=0.572, 2500=0.497, 5000=0.481 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5061"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F3A"; Footprint = "Protected Fuse Clip"; UniqueID = "\RWLWQUFQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3588 - FUSE HOLDER, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3588"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.929, 50=0.783, 100=0.75, 250=0.686, 500=0.66, 1000=0.572, 2500=0.497, 5000=0.481 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5061"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4A"; Footprint = "43045-0812 Microfit Header w/ plug"; UniqueID = "\YDXBAACT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/cad/1243826.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/cad/1243826.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1964610.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1964610.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/cad/1976739.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/cad/1976739.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "MOLEX - 43045-0812 - PLUG & SOCKET CONNECTOR, HEADER, 8 POSITION, 3MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MOLEX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0812"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.72, 10=1.4, 100=1.27, 500=1.01, 1000=0.92, 2000=0.784 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "89C1127"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1A"; Footprint = "431602104 Header w/ Plug"; UniqueID = "\DHDNSHXW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/cad/1942453.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/cad/1942453.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1968648.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1968648.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/cad/1989934.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/cad/1989934.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin Plated Contacts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "MOLEX - 43160-2104 - CONNECTOR, HEADER, 4POS, 1ROW, 7.5MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MOLEX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "43160-2104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch Spacing"; Value = "7.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=2.45, 10=2.09, 100=1.71, 500=1.53, 1000=1.38, 2000=1.29, 5000=1.25 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "Sabre 43160 Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "56H9807"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P6A"; Footprint = "431602103 Header w/ Plug"; UniqueID = "\FLGUFLHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/cad/1942453.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/cad/1942453.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1968276.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1968276.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/cad/1976713.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/cad/1976713.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin Plated Contacts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "MOLEX - 43160-2103 - CONNECTOR, HEADER, 3POS, 1ROW, 7.5MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MOLEX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "43160-2103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch Spacing"; Value = "7.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.73, 10=1.48, 100=1.21, 500=1.09, 1000=0.975, 2000=0.91, 5000=0.885 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "Sabre 43160 Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "762"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "56H9806"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P8A"; Footprint = "533750210 header w/ plug"; UniqueID = "\GJTLHQXH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1024877.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1024877.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/cad/1843463.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/cad/1843463.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/1957448.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/1957448.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/cad/1990318.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/cad/1990318.zip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin Plated Contacts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "MOLEX - 53375-0210 - WIRE-BOARD CONNECTOR HEADER, 2 POSITION, 2.5MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MOLEX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "53375-0210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch Spacing"; Value = "2.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.49, 10=0.37, 100=0.3, 500=0.293, 1000=0.254, 2000=0.208, 5000=0.205, 10000=0.192 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "Mini-Lock 53375 Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "5139"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "57H5345"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS232.IMU.DOWNSTREAM Pin=P7A-2
+Added Pin To Net: NetName=RS232.IMU.DOWNSTREAM Pin=P7A-2
+Added Pin To Net: NetName=RS232.IMU.UPSTREAM Pin=P7A-3
+Added Pin To Net: NetName=RS232.IMU.UPSTREAM Pin=P7A-3
+Added Pin To Net: NetName=SDA Pin=P7A-4
+Added Pin To Net: NetName=SDA Pin=P7A-4
+Added Pin To Net: NetName=SCL Pin=P7A-5
+Added Pin To Net: NetName=SCL Pin=P7A-5
+Added Pin To Net: NetName=5V Pin=P7A-6
+Added Pin To Net: NetName=5V Pin=P7A-6
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P7A-8
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P7A-8
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P7A-9
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P7A-9
+Added Pin To Net: NetName=GND Pin=P7A-10
+Added Pin To Net: NetName=GND Pin=P7A-10
+Added Pin To Net: NetName=D+ Pin=P9A-1
+Added Pin To Net: NetName=D+ Pin=P9A-1
+Added Pin To Net: NetName=D- Pin=P9A-2
+Added Pin To Net: NetName=D- Pin=P9A-2
+Added Pin To Net: NetName=RS232.IMU.DOWNSTREAM Pin=P9A-3
+Added Pin To Net: NetName=RS232.IMU.DOWNSTREAM Pin=P9A-3
+Added Pin To Net: NetName=RS232.IMU.UPSTREAM Pin=P9A-4
+Added Pin To Net: NetName=RS232.IMU.UPSTREAM Pin=P9A-4
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P9A-5
+Added Pin To Net: NetName=UART.ACOUSTICS.UPSTREAM Pin=P9A-5
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P9A-6
+Added Pin To Net: NetName=UART.ACOUSTICS.DOWNSTREAM Pin=P9A-6
+Added Pin To Net: NetName=SDA Pin=P9A-8
+Added Pin To Net: NetName=SDA Pin=P9A-8
+Added Pin To Net: NetName=SCL Pin=P9A-9
+Added Pin To Net: NetName=SCL Pin=P9A-9
+Added Pin To Net: NetName=GND Pin=P9A-10
+Added Pin To Net: NetName=GND Pin=P9A-10
+Added Pin To Net: NetName=S.KILLSWITCH Pin=S1-1
+Added Pin To Net: NetName=NetP8A_1 Pin=S1-2
+Added Member To Class: ClassName=Backplane Board Member=Component S1 SW-SPST
+Added Room: Name=Backplane Board

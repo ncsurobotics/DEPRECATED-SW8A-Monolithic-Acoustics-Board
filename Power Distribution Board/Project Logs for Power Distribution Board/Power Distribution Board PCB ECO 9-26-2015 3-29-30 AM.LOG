@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=L1-1
+Removed Pin From Net: NetName=NetC8_1 Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR-WE-PD New Footprint=WE-PD 1245
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=18.0 µH
+Added Pin To Net: NetName=NetC8_1 Pin=L1-1
+Added Pin To Net: NetName=NetC9_1 Pin=L1-2

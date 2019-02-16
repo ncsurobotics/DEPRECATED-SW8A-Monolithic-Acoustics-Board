@@ -1,0 +1,25 @@
+Bill of Material for 
+On 9/14/2016 at 12:36:35 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 12V Converter Connector 431602103 Header w/ Plug    1    P6A                                               
+ 3588                Protected Fuse Clip    3    F1A, F2A, F3A                Fuse Holder Assembly 
+ Computer Power + USB Connector 43045-0812 Microfit Header w/ plug    1    P4A                                               
+ Conversion Board    ICV 2,5/ 6-G-5,08    1    P3A                          Header, 6-Pin        
+ General Plug2 (Placeholder), 51103-0200                  1    i3A                          Molex Wire2PCB connector, 2pin 
+ Header              1x2 Header       2    X1A, X5A                     1x2 Header           
+ Header              2x2 Header w/ division    3    X2A, X3A, X4A                2x2 Header           
+ Kill switch connector 533750210 header w/ plug    1    P8A                                               
+ Main Battery Connector 431602104 Header w/ Plug    1    P1A                                               
+ Micro-fit 26-30AWG Crimp pin (Placeholder)                  8    i11A, i12A, i13A, i14A, i15A Standard Crimp pin for Micro-fit series 
+                                           i16A, i17A, i18A
+ Micro-Fit Plug8 (placeholder), 43025-0800                  1    i2A                          8pin micro-fit connector, 43025-0800 
+ Mini-lock 22-28AWG (Placeholder), 50351-8000                  2    i19A, i20A                   Standard Crimp pin for Mini-lock series 
+ Power Board         ICV 2,5/10-G-5,08    1    P2A                          Header, 10-Pin       
+ Saber 16AWG Crimp Pin                  7    i4A, i5A, i6A, i7A, i8A, i9A                      
+                                           i10A
+ Saber Connector, 4pin, 44441-2004 (Placeholder)                  1    i1A                          Saber connector, plug, 4 pin 
+ Sensor Board        M50-4301045 - duplicate    1    P7A                                               
+ Serial Board        M50-4301045 - duplicate    1    P9A                                               
+ Thruster Board      ICV 2,5/ 6-G-5,08    1    P5A                          Header, 6-Pin        

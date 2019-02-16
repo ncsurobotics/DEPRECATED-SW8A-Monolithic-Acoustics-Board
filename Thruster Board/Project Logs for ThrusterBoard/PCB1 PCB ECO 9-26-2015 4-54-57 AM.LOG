@@ -1,0 +1,280 @@
+Change Component Library : Designator=F6 Old Library=URC.SchLib New Library=URC_Lib.IntLib
+Change Component Library : Designator=MC6 Old Library=URC.SchLib New Library=URC_Lib.IntLib
+Change Component Library : Designator=O6 Old Library=URC.SchLib New Library=URC_Lib.IntLib
+Change Component Library : Designator=R93 Old Library=URC.SchLib New Library=URC_Lib.IntLib
+Change Component Library : Designator=R94 Old Library=URC.SchLib New Library=URC_Lib.IntLib
+Change Component Library : Designator=R95 Old Library=URC.SchLib New Library=URC_Lib.IntLib
+Change Component Library : Designator=R96 Old Library=URC.SchLib New Library=URC_Lib.IntLib
+Added Component: Designator=F1(00300210N)
+Added Component: Designator=F2(00300210N)
+Added Component: Designator=F3(00300210N)
+Added Component: Designator=F4(00300210N)
+Added Component: Designator=F5(00300210N)
+Added Component: Designator=MC1(Pololu 24v12)
+Added Component: Designator=MC2(Pololu 24v12)
+Added Component: Designator=MC3(Pololu 24v12)
+Added Component: Designator=MC4(Pololu 24v12)
+Added Component: Designator=MC5(Pololu 24v12)
+Added Component: Designator=O1(8-SMD)
+Added Component: Designator=O2(8-SMD)
+Added Component: Designator=O3(8-SMD)
+Added Component: Designator=O4(8-SMD)
+Added Component: Designator=O5(8-SMD)
+Added Component: Designator=P4(M50-4301045)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R5(R0805)
+Added Component: Designator=R6(R0805)
+Added Component: Designator=R7(R0805)
+Added Component: Designator=R8(R0805)
+Added Component: Designator=R9(R0805)
+Added Component: Designator=R10(R0805)
+Added Component: Designator=R11(R0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=R13(R0805)
+Added Component: Designator=R14(R0805)
+Added Component: Designator=R15(R0805)
+Added Component: Designator=R16(R0805)
+Added Component: Designator=R17(R0805)
+Added Component: Designator=R18(R0805)
+Added Component: Designator=R19(R0805)
+Added Component: Designator=R20(R0805)
+Added Component: Designator=U5(44A_N)
+Added Pin To Net: NetName=24V Pin=F1-1
+Added Pin To Net: NetName=24V Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=24V Pin=F2-1
+Added Pin To Net: NetName=24V Pin=F2-1
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=24V Pin=F3-1
+Added Pin To Net: NetName=24V Pin=F3-1
+Added Pin To Net: NetName=NetF3_2 Pin=F3-2
+Added Pin To Net: NetName=NetF3_2 Pin=F3-2
+Added Pin To Net: NetName=24V Pin=F4-1
+Added Pin To Net: NetName=24V Pin=F4-1
+Added Pin To Net: NetName=NetF4_2 Pin=F4-2
+Added Pin To Net: NetName=NetF4_2 Pin=F4-2
+Added Pin To Net: NetName=24V Pin=F5-1
+Added Pin To Net: NetName=24V Pin=F5-1
+Added Pin To Net: NetName=NetF5_2 Pin=F5-2
+Added Pin To Net: NetName=NetF5_2 Pin=F5-2
+Added Pin To Net: NetName=NetMC1_5V Pin=MC1-5V
+Added Pin To Net: NetName=NetMC1_DIR Pin=MC1-DIR
+Added Pin To Net: NetName=24V_GND Pin=MC1-GND
+Added Pin To Net: NetName=24V_GND Pin=MC1-GND
+Added Pin To Net: NetName=24V_GND Pin=MC1-GND
+Added Pin To Net: NetName=NetMC1_OUTA Pin=MC1-OUTA
+Added Pin To Net: NetName=NetMC1_OUTA Pin=MC1-OUTA
+Added Pin To Net: NetName=NetMC1_OUTB Pin=MC1-OUTB
+Added Pin To Net: NetName=NetMC1_OUTB Pin=MC1-OUTB
+Added Pin To Net: NetName=NetMC1_PWM Pin=MC1-PWM
+Added Pin To Net: NetName=NetMC1_5V Pin=MC1-RESET
+Added Pin To Net: NetName=NetF1_2 Pin=MC1-V+
+Added Pin To Net: NetName=NetF1_2 Pin=MC1-V+
+Added Pin To Net: NetName=NetMC2_5V Pin=MC2-5V
+Added Pin To Net: NetName=NetMC2_DIR Pin=MC2-DIR
+Added Pin To Net: NetName=24V_GND Pin=MC2-GND
+Added Pin To Net: NetName=24V_GND Pin=MC2-GND
+Added Pin To Net: NetName=24V_GND Pin=MC2-GND
+Added Pin To Net: NetName=NetMC2_OUTA Pin=MC2-OUTA
+Added Pin To Net: NetName=NetMC2_OUTA Pin=MC2-OUTA
+Added Pin To Net: NetName=NetMC2_OUTB Pin=MC2-OUTB
+Added Pin To Net: NetName=NetMC2_OUTB Pin=MC2-OUTB
+Added Pin To Net: NetName=NetMC2_PWM Pin=MC2-PWM
+Added Pin To Net: NetName=NetMC2_5V Pin=MC2-RESET
+Added Pin To Net: NetName=NetF2_2 Pin=MC2-V+
+Added Pin To Net: NetName=NetF2_2 Pin=MC2-V+
+Added Pin To Net: NetName=NetMC3_5V Pin=MC3-5V
+Added Pin To Net: NetName=NetMC3_DIR Pin=MC3-DIR
+Added Pin To Net: NetName=24V_GND Pin=MC3-GND
+Added Pin To Net: NetName=24V_GND Pin=MC3-GND
+Added Pin To Net: NetName=24V_GND Pin=MC3-GND
+Added Pin To Net: NetName=NetMC3_OUTA Pin=MC3-OUTA
+Added Pin To Net: NetName=NetMC3_OUTA Pin=MC3-OUTA
+Added Pin To Net: NetName=NetMC3_OUTB Pin=MC3-OUTB
+Added Pin To Net: NetName=NetMC3_OUTB Pin=MC3-OUTB
+Added Pin To Net: NetName=NetMC3_PWM Pin=MC3-PWM
+Added Pin To Net: NetName=NetMC3_5V Pin=MC3-RESET
+Added Pin To Net: NetName=NetF3_2 Pin=MC3-V+
+Added Pin To Net: NetName=NetF3_2 Pin=MC3-V+
+Added Pin To Net: NetName=NetMC4_5V Pin=MC4-5V
+Added Pin To Net: NetName=NetMC4_DIR Pin=MC4-DIR
+Added Pin To Net: NetName=24V_GND Pin=MC4-GND
+Added Pin To Net: NetName=24V_GND Pin=MC4-GND
+Added Pin To Net: NetName=24V_GND Pin=MC4-GND
+Added Pin To Net: NetName=NetMC4_OUTA Pin=MC4-OUTA
+Added Pin To Net: NetName=NetMC4_OUTA Pin=MC4-OUTA
+Added Pin To Net: NetName=NetMC4_OUTB Pin=MC4-OUTB
+Added Pin To Net: NetName=NetMC4_OUTB Pin=MC4-OUTB
+Added Pin To Net: NetName=NetMC4_PWM Pin=MC4-PWM
+Added Pin To Net: NetName=NetMC4_5V Pin=MC4-RESET
+Added Pin To Net: NetName=NetF4_2 Pin=MC4-V+
+Added Pin To Net: NetName=NetF4_2 Pin=MC4-V+
+Added Pin To Net: NetName=NetMC5_5V Pin=MC5-5V
+Added Pin To Net: NetName=NetMC5_DIR Pin=MC5-DIR
+Added Pin To Net: NetName=24V_GND Pin=MC5-GND
+Added Pin To Net: NetName=24V_GND Pin=MC5-GND
+Added Pin To Net: NetName=24V_GND Pin=MC5-GND
+Added Pin To Net: NetName=NetMC5_OUTA Pin=MC5-OUTA
+Added Pin To Net: NetName=NetMC5_OUTA Pin=MC5-OUTA
+Added Pin To Net: NetName=NetMC5_OUTB Pin=MC5-OUTB
+Added Pin To Net: NetName=NetMC5_OUTB Pin=MC5-OUTB
+Added Pin To Net: NetName=NetMC5_PWM Pin=MC5-PWM
+Added Pin To Net: NetName=NetMC5_5V Pin=MC5-RESET
+Added Pin To Net: NetName=NetF5_2 Pin=MC5-V+
+Added Pin To Net: NetName=NetF5_2 Pin=MC5-V+
+Added Pin To Net: NetName=NetO1_1 Pin=O1-1
+Added Pin To Net: NetName=GND Pin=O1-2
+Added Pin To Net: NetName=NetO1_3 Pin=O1-3
+Added Pin To Net: NetName=GND Pin=O1-4
+Added Pin To Net: NetName=NetMC1_DIR Pin=O1-5
+Added Pin To Net: NetName=5V_ISO Pin=O1-6
+Added Pin To Net: NetName=NetMC1_PWM Pin=O1-7
+Added Pin To Net: NetName=5V_ISO Pin=O1-8
+Added Pin To Net: NetName=NetO2_1 Pin=O2-1
+Added Pin To Net: NetName=GND Pin=O2-2
+Added Pin To Net: NetName=NetO2_3 Pin=O2-3
+Added Pin To Net: NetName=GND Pin=O2-4
+Added Pin To Net: NetName=NetMC2_DIR Pin=O2-5
+Added Pin To Net: NetName=5V_ISO Pin=O2-6
+Added Pin To Net: NetName=NetMC2_PWM Pin=O2-7
+Added Pin To Net: NetName=5V_ISO Pin=O2-8
+Added Pin To Net: NetName=NetO3_1 Pin=O3-1
+Added Pin To Net: NetName=GND Pin=O3-2
+Added Pin To Net: NetName=NetO3_3 Pin=O3-3
+Added Pin To Net: NetName=GND Pin=O3-4
+Added Pin To Net: NetName=NetMC3_DIR Pin=O3-5
+Added Pin To Net: NetName=5V_ISO Pin=O3-6
+Added Pin To Net: NetName=NetMC3_PWM Pin=O3-7
+Added Pin To Net: NetName=5V_ISO Pin=O3-8
+Added Pin To Net: NetName=NetO4_1 Pin=O4-1
+Added Pin To Net: NetName=GND Pin=O4-2
+Added Pin To Net: NetName=NetO4_3 Pin=O4-3
+Added Pin To Net: NetName=GND Pin=O4-4
+Added Pin To Net: NetName=NetMC4_DIR Pin=O4-5
+Added Pin To Net: NetName=5V_ISO Pin=O4-6
+Added Pin To Net: NetName=NetMC4_PWM Pin=O4-7
+Added Pin To Net: NetName=5V_ISO Pin=O4-8
+Added Pin To Net: NetName=NetO5_1 Pin=O5-1
+Added Pin To Net: NetName=GND Pin=O5-2
+Added Pin To Net: NetName=NetO5_3 Pin=O5-3
+Added Pin To Net: NetName=GND Pin=O5-4
+Added Pin To Net: NetName=NetMC5_DIR Pin=O5-5
+Added Pin To Net: NetName=5V_ISO Pin=O5-6
+Added Pin To Net: NetName=NetMC5_PWM Pin=O5-7
+Added Pin To Net: NetName=5V_ISO Pin=O5-8
+Added Pin To Net: NetName=24V Pin=P4-1
+Added Pin To Net: NetName=12V Pin=P4-2
+Added Pin To Net: NetName=5V_ISO Pin=P4-3
+Added Pin To Net: NetName=24V_GND Pin=P4-19
+Added Pin To Net: NetName=GND Pin=P4-20
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetO2_3 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetO2_1 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetO3_3 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetO3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetO4_3 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetO4_1 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetO1_3 Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetO1_1 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetO5_3 Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetO5_1 Pin=R10-2
+Added Pin To Net: NetName=24V_GND Pin=R11-1
+Added Pin To Net: NetName=NetMC2_DIR Pin=R11-2
+Added Pin To Net: NetName=24V_GND Pin=R12-1
+Added Pin To Net: NetName=NetMC2_PWM Pin=R12-2
+Added Pin To Net: NetName=24V_GND Pin=R13-1
+Added Pin To Net: NetName=NetMC3_DIR Pin=R13-2
+Added Pin To Net: NetName=24V_GND Pin=R14-1
+Added Pin To Net: NetName=NetMC3_PWM Pin=R14-2
+Added Pin To Net: NetName=24V_GND Pin=R15-1
+Added Pin To Net: NetName=NetMC4_DIR Pin=R15-2
+Added Pin To Net: NetName=24V_GND Pin=R16-1
+Added Pin To Net: NetName=NetMC4_PWM Pin=R16-2
+Added Pin To Net: NetName=24V_GND Pin=R17-1
+Added Pin To Net: NetName=NetMC1_DIR Pin=R17-2
+Added Pin To Net: NetName=24V_GND Pin=R18-1
+Added Pin To Net: NetName=NetMC1_PWM Pin=R18-2
+Added Pin To Net: NetName=24V_GND Pin=R19-1
+Added Pin To Net: NetName=NetMC5_DIR Pin=R19-2
+Added Pin To Net: NetName=24V_GND Pin=R20-1
+Added Pin To Net: NetName=NetMC5_PWM Pin=R20-2
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=PRE_3V3 Pin=U5-9
+Added Pin To Net: NetName=NetP2_2 Pin=U5-10
+Added Pin To Net: NetName=NetP2_1 Pin=U5-11
+Added Pin To Net: NetName=NetP3_1 Pin=U5-12
+Added Pin To Net: NetName=NetP3_2 Pin=U5-13
+Added Pin To Net: NetName=NetR8_1 Pin=U5-14
+Added Pin To Net: NetName=NetR2_1 Pin=U5-15
+Added Pin To Net: NetName=NetR4_1 Pin=U5-16
+Added Pin To Net: NetName=NetR6_1 Pin=U5-17
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=PRE_3V3 Pin=U5-19
+Added Pin To Net: NetName=NetR10_1 Pin=U5-20
+Added Pin To Net: NetName=NetR96_1 Pin=U5-21
+Added Pin To Net: NetName=NetR7_1 Pin=U5-22
+Added Pin To Net: NetName=NetR1_1 Pin=U5-23
+Added Pin To Net: NetName=NetR3_1 Pin=U5-24
+Added Pin To Net: NetName=MOSI Pin=U5-25
+Added Pin To Net: NetName=MISO Pin=U5-26
+Added Pin To Net: NetName=SCK Pin=U5-27
+Added Pin To Net: NetName=NetR5_1 Pin=U5-28
+Added Pin To Net: NetName=NetR9_1 Pin=U5-29
+Added Pin To Net: NetName=GND Pin=U5-30
+Added Pin To Net: NetName=PRE_3V3 Pin=U5-31
+Added Pin To Net: NetName=NetR95_1 Pin=U5-32
+Added Pin To Net: NetName=NetU5_34 Pin=U5-34
+Added Pin To Net: NetName=RESET Pin=U5-35
+Added Pin To Net: NetName=GND Pin=U5-38
+Added Pin To Net: NetName=PRE_3V3 Pin=U5-39
+Added Member To Class: ClassName=Motor Control Member=Component F1 Fuse
+Added Member To Class: ClassName=Motor Control Member=Component F2 Fuse
+Added Member To Class: ClassName=Motor Control Member=Component F3 Fuse
+Added Member To Class: ClassName=Motor Control Member=Component F4 Fuse
+Added Member To Class: ClassName=Motor Control Member=Component F5 Fuse
+Added Member To Class: ClassName=Motor Control Member=Component MC1 Motor Controller
+Added Member To Class: ClassName=Motor Control Member=Component MC2 Motor Controller
+Added Member To Class: ClassName=Motor Control Member=Component MC3 Motor Controller
+Added Member To Class: ClassName=Motor Control Member=Component MC4 Motor Controller
+Added Member To Class: ClassName=Motor Control Member=Component MC5 Motor Controller
+Added Member To Class: ClassName=Motor Control Member=Component O1 LTV-826
+Added Member To Class: ClassName=Motor Control Member=Component O2 LTV-826
+Added Member To Class: ClassName=Motor Control Member=Component O3 LTV-826
+Added Member To Class: ClassName=Motor Control Member=Component O4 LTV-826
+Added Member To Class: ClassName=Motor Control Member=Component O5 LTV-826
+Added Member To Class: ClassName=Overview Member=Component P4 M50-4301045
+Added Member To Class: ClassName=Motor Control Member=Component R1 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R2 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R3 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R4 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R5 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R6 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R7 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R8 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R9 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R10 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R11 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R12 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R13 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R14 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R15 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R16 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R17 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R18 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R19 Resistor
+Added Member To Class: ClassName=Motor Control Member=Component R20 Resistor
+Added Member To Class: ClassName=U_Microcontroller Member=Component U5 ATxmega16D4-AU

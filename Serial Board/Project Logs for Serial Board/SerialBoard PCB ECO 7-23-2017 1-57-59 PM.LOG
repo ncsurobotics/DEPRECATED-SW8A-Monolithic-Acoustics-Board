@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Acoustics Debug NewDesignator=X3A
+Added Component: Designator=H1D(110mil Holes - 1.0 Inch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU4D_52 Pin=X3A-2
+Added Pin To Net: NetName=NetU4D_48 Pin=X3A-4
+Added Member To Class: ClassName=USB to Serial Member=Component H1D Holes - x inch

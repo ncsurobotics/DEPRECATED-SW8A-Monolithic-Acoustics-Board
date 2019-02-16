@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MISO Pin=X1F-1
+Removed Pin From Net: NetName=3V3 Pin=X1F-2
+Removed Pin From Net: NetName=SCK Pin=X1F-3
+Removed Pin From Net: NetName=MOSI Pin=X1F-4
+Removed Pin From Net: NetName=RESET Pin=X1F-5
+Removed Pin From Net: NetName=GND Pin=X1F-6
+Removed Member From Class: ClassName=U_Microcontroller Member=X1F

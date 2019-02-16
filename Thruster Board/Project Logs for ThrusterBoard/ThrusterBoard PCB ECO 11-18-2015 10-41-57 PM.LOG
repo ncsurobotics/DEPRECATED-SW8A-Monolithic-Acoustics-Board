@@ -1,0 +1,12 @@
+Added Component: Designator=Pa1F(PAD-12 AWG)
+Added Component: Designator=Pa2F(PAD-12 AWG)
+Added Component: Designator=Pa3F(PAD-12 AWG)
+Added Component: Designator=Pa4F(PAD-12 AWG)
+Added Pin To Net: NetName=NetPa2F_1 Pin=Pa2F-1
+Added Pin To Net: NetName=NetPa2F_1 Pin=Pa4F-1
+Added Net: Name=NetPa2F_1
+Added Member To Class: ClassName=Motor Control Member=Component Pa1F PAD
+Added Member To Class: ClassName=Motor Control Member=Component Pa2F PAD
+Added Member To Class: ClassName=Motor Control Member=Component Pa3F PAD
+Added Member To Class: ClassName=Motor Control Member=Component Pa4F PAD
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetPa2F_1

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=UART3_TX Pin=U4D-48
+Removed Pin From Net: NetName=UART3_RX Pin=U4D-52
+Removed Pin From Net: NetName=UART3_RX Pin=X3D-12
+Removed Pin From Net: NetName=UART3_RX Pin=X3D-13
+Removed Pin From Net: NetName=UART3_TX Pin=X3D-14
+Removed Pin From Net: NetName=UART3_TX Pin=X3D-15
+Added Pin To Net: NetName=UART3_TX Pin=X3D-12
+Added Pin To Net: NetName=UART3_TX Pin=X3D-13
+Added Pin To Net: NetName=UART3_RX Pin=X3D-14
+Added Pin To Net: NetName=UART3_RX Pin=X3D-15
+Change Net Name : Old Net Name=UART3_RX New Net Name=RS232.IMU.UPSTREAM
+Change Net Name : Old Net Name=UART3_TX New Net Name=RS232.IMU.DOWNSTREAM
+Change Net Name : Old Net Name=UART_RX1 New Net Name=UART.IMU.UPSTREAM
+Change Net Name : Old Net Name=UART_TX1 New Net Name=UART.IMU.DOWNSTREAM

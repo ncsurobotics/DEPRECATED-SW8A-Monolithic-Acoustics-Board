@@ -1,0 +1,56 @@
+Added Component: Designator=C5(C1210)
+Added Component: Designator=R10(R0805)
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=12V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=12V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=12V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_1 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=NetC8_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetC9_1 Pin=L1-1
+Added Pin To Net: NetName=NetC8_1 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetPSU1_4 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetC9_1 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetC13_2 Pin=R13-2
+Added Pin To Net: NetName=NetC8_2 Pin=U7-BOOT
+Added Pin To Net: NetName=NetC13_1 Pin=U7-COMP
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=NetC8_1 Pin=U7-PH
+Added Pin To Net: NetName=NetC15_1 Pin=U7-SS
+Added Pin To Net: NetName=12V Pin=U7-VIN
+Added Pin To Net: NetName=NetR11_1 Pin=U7-VSENSE
+Added Member To Class: ClassName=U_Power Distribution Member=Component C5 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C8 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C9 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C10 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C11 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C12 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C13 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C14 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component C15 Cap
+Added Member To Class: ClassName=U_Power Distribution Member=Component D3 Shottky
+Added Member To Class: ClassName=U_Power Distribution Member=Component L1 Inductor
+Added Member To Class: ClassName=U_Power Distribution Member=Component R10 Resistor
+Added Member To Class: ClassName=U_Power Distribution Member=Component R11 Resistor
+Added Member To Class: ClassName=U_Power Distribution Member=Component R12 Resistor
+Added Member To Class: ClassName=U_Power Distribution Member=Component R13 Resistor
+Added Member To Class: ClassName=U_Power Distribution Member=Component U7 TPS54231
+Added Room: Name=Overview

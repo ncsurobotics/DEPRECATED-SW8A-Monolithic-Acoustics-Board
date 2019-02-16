@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=H1E Old Footprint=Holes - 1.75 Inch New Footprint=Holes - 1.0 Inch
+Added Pin To Net: NetName=GND Pin=U3E-GND
+Added Pin To Net: NetName=5V Pin=U3E-VIN
+Added Pin To Net: NetName=3V3 Pin=U3E-VOUT

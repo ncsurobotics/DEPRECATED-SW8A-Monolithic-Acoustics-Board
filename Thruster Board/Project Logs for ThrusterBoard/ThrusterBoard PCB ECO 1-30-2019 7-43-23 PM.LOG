@@ -1,0 +1,18 @@
+Added Component: Designator=MC1F_M6(Pololu 24v12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24v12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetMC1F_M6_5V Pin=MC1F_M6-5V
+Added Pin To Net: NetName=P6 Pin=MC1F_M6-DIR
+Added Pin To Net: NetName=GND Pin=MC1F_M6-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M6-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M6-GND
+Added Pin To Net: NetName=A6 Pin=MC1F_M6-OUTA
+Added Pin To Net: NetName=A6 Pin=MC1F_M6-OUTA
+Added Pin To Net: NetName=B6 Pin=MC1F_M6-OUTB
+Added Pin To Net: NetName=B6 Pin=MC1F_M6-OUTB
+Added Pin To Net: NetName=D6 Pin=MC1F_M6-PWM
+Added Pin To Net: NetName=NetMC1F_M6_5V Pin=MC1F_M6-RESET
+Added Pin To Net: NetName=NetF1F_M6_2 Pin=MC1F_M6-V+
+Added Pin To Net: NetName=NetF1F_M6_2 Pin=MC1F_M6-V+
+Added Member To Class: ClassName=M6 Member=Component MC1F_M6 (MC1F) Motor Controller

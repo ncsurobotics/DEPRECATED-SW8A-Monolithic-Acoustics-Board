@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=U3-None
+Removed Pin From Net: NetName=GND Pin=U3-VIN
+Removed Pin From Net: NetName=GND Pin=U3-VOUT
+Change Component Designator: OldDesignator=C1 NewDesignator=C1E
+Change Component Designator: OldDesignator=R1 NewDesignator=R1E
+Change Component Designator: OldDesignator=R2 NewDesignator=R2E
+Change Component Designator: OldDesignator=R3 NewDesignator=R3E
+Change Component Designator: OldDesignator=R4 NewDesignator=R4E
+Change Component Designator: OldDesignator=R5 NewDesignator=R5E
+Change Component Designator: OldDesignator=U1 NewDesignator=U1E
+Change Component Designator: OldDesignator=U2 NewDesignator=U2E
+Change Component Designator: OldDesignator=U3 NewDesignator=U3E
+Change Component Designator: OldDesignator=X1 NewDesignator=X1E
+Change Component Designator: OldDesignator=X2 NewDesignator=X3E
+Change Component Designator: OldDesignator=X4 NewDesignator=X4E
+Change Component Designator: OldDesignator=X5 NewDesignator=X2E
+Added Component: Designator=H1E(Holes - 1.75 Inch)
+Added Pin To Net: NetName=5V Pin=U3E-VIN
+Added Pin To Net: NetName=3V3 Pin=U3E-VOUT
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR1E_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR4E_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR5E_1
+Change Net Name : Old Net Name=NetU2_AIN New Net Name=NetU2E_AIN
+Added Member To Class: ClassName=Sensor Overview Member=Component H1E Holes - x inch

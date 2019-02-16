@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3 Pin=C4D-1
+Removed Pin From Net: NetName=GND Pin=C4D-2
+Removed Pin From Net: NetName=3V3 Pin=C5D-1
+Removed Pin From Net: NetName=GND Pin=C5D-2
+Removed Pin From Net: NetName=3V3 Pin=C6D-1
+Removed Pin From Net: NetName=GND Pin=C6D-2
+Removed Member From Class: ClassName=Serial Board Overview Member=C3D
+Removed Member From Class: ClassName=ATXMega32 Master Member=C4D
+Removed Member From Class: ClassName=ATXMega32 Master Member=C5D
+Removed Member From Class: ClassName=ATXMega32 Master Member=C6D
+Removed Member From Class: ClassName=ATXMega32 Master Member=U4D
+Removed Member From Class: ClassName=Serial Board Overview Member=U4D
+Added Member To Class: ClassName=Serial Board Overview Member=Component C1D .1uF
+Added Member To Class: ClassName=Serial Board Overview Member=Component U1D AP1117E33G-13
+Added Member To Class: ClassName=ATXMega32 Master Member=Component U2D ATxmegaA4

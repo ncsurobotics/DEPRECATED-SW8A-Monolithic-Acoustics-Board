@@ -1,0 +1,103 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Josh\Dropbox\Electrical\Seawolf VII\Thruster Board\ThrusterBoard.PcbDoc
+Date     : 12/14/2015
+Time     : 1:33:03 PM
+
+Processing Rule : Minimum Annular Ring (Minimum=5mil) (IsVia)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Rule Violations :0
+
+Processing Rule : Room M5 (Bounding Region = (5800mil, 2200mil, 6600mil, 3700mil) (Disabled)(InComponentClass('M5'))
+Rule Violations :0
+
+Processing Rule : Room M6 (Bounding Region = (6650mil, 2200mil, 7450mil, 3700mil) (Disabled)(InComponentClass('M6'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad H1F-0(3150mil,250mil)  Bottom Layer and 
+                     Pad H1F-0(3150mil,250mil)  Multi-Layer
+   Violation between Pad H1F-0(1550mil,250mil)  Bottom Layer and 
+                     Pad H1F-0(1550mil,250mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=200mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=5000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=15mil) (Max=110mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "6.50 x 2.83 inch" (4300mil,2930mil)  Top Overlay
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Room U_Microcontroller (Bounding Region = (4550mil, 950mil, 6490mil, 1830mil) (Disabled)(InComponentClass('U_Microcontroller'))
+Rule Violations :0
+
+Processing Rule : Room M4 (Bounding Region = (4950mil, 2200mil, 5750mil, 3700mil) (Disabled)(InComponentClass('M4'))
+Rule Violations :0
+
+Processing Rule : Room M3 (Bounding Region = (4100mil, 2200mil, 4900mil, 3700mil) (Disabled)(InComponentClass('M3'))
+Rule Violations :0
+
+Processing Rule : Room M2 (Bounding Region = (3250mil, 2200mil, 4050mil, 3700mil) (Disabled)(InComponentClass('M2'))
+Rule Violations :0
+
+Processing Rule : Room M1 (Bounding Region = (2400mil, 2200mil, 3200mil, 3700mil) (Disabled)(InComponentClass('M1'))
+Rule Violations :0
+
+Processing Rule : Room U6 (Bounding Region = (6650mil, 1875mil, 7220mil, 2245mil) (Disabled)(InComponentClass('U6'))
+Rule Violations :0
+
+Processing Rule : Room U5 (Bounding Region = (5800mil, 1875mil, 6370mil, 2245mil) (Disabled)(InComponentClass('U5'))
+Rule Violations :0
+
+Processing Rule : Room U4 (Bounding Region = (4950mil, 1875mil, 5520mil, 2245mil) (Disabled)(InComponentClass('U4'))
+Rule Violations :0
+
+Processing Rule : Room U3 (Bounding Region = (4100mil, 1875mil, 4670mil, 2245mil) (Disabled)(InComponentClass('U3'))
+Rule Violations :0
+
+Processing Rule : Room U2 (Bounding Region = (3250mil, 1875mil, 3820mil, 2245mil) (Disabled)(InComponentClass('U2'))
+Rule Violations :0
+
+Processing Rule : Room U1 (Bounding Region = (2400mil, 1875mil, 2970mil, 2245mil) (Disabled)(InComponentClass('U1'))
+Rule Violations :0
+
+Processing Rule : Room Thruster Board (Bounding Region = (2270mil, 1030mil, 4250mil, 1700mil) (Disabled)(InComponentClass('Thruster Board'))
+Rule Violations :0
+
+
+Violations Detected : 3
+Time Elapsed        : 00:00:02

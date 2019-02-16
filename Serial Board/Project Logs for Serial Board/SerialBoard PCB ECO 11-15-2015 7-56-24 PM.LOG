@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U1D-GND
+Removed Pin From Net: NetName=5V Pin=U1D-VIN
+Removed Pin From Net: NetName=3V3 Pin=U1D-VOUT
+Removed Pin From Net: NetName=3V3 Pin=U1D-VOUT

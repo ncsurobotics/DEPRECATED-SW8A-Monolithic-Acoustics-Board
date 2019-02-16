@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Serial Board.PrjPcb]
+   Generated File[SerialBoard.BOM]
+   Generated File[SerialBoard.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 3:45:07 PM On 6/4/2017

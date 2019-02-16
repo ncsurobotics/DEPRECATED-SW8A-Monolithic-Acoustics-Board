@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=X2E-1
+Removed Pin From Net: NetName=ACOUSTICS_RX Pin=X2E-2
+Removed Pin From Net: NetName=ACOUSTICS_RX Pin=X2E-3
+Removed Pin From Net: NetName=ACOUSTICS_TX Pin=X2E-4
+Removed Pin From Net: NetName=ACOUSTICS_TX Pin=X2E-5
+Removed Pin From Net: NetName=9V Pin=X2E-6
+Removed Pin From Net: NetName=9V Pin=X2E-7
+Removed Pin From Net: NetName=5V Pin=X2E-10
+Removed Pin From Net: NetName=5V Pin=X2E-11
+Removed Pin From Net: NetName=SCL Pin=X2E-12
+Removed Pin From Net: NetName=SCL Pin=X2E-13
+Removed Pin From Net: NetName=IMU_RX Pin=X2E-18
+Removed Pin From Net: NetName=IMU_RX Pin=X2E-19
+Removed Pin From Net: NetName=GND Pin=X2E-20
+Added Component: Designator=P?(1792708)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "URL"; Value = "http://www.mouser.com/ProductDetail/Phoenix-Contact/1792708/?qs=sGAEpiMZZMsDddcp1dBDJI66tvLKBAoKnRJwuCPjeJk%3d"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=ACOUSTICS_RX Pin=P?-2
+Added Pin To Net: NetName=ACOUSTICS_TX Pin=P?-3
+Added Pin To Net: NetName=9V Pin=P?-4
+Added Pin To Net: NetName=5V Pin=P?-5
+Added Pin To Net: NetName=SCL Pin=P?-6
+Added Pin To Net: NetName=SCL Pin=P?-7
+Added Pin To Net: NetName=IMU_RX Pin=P?-8
+Added Pin To Net: NetName=IMU_RX Pin=P?-9
+Added Pin To Net: NetName=GND Pin=P?-10
+Added Pin To Net: NetName=SCL Pin=R3E-1
+Added Pin To Net: NetName=SCL Pin=U1E-SDA1
+Added Pin To Net: NetName=IMU_RX Pin=X3E-3
+Added Pin To Net: NetName=SCL Pin=X5E-3
+Added Pin To Net: NetName=SCL Pin=X5E-3
+Added Member To Class: ClassName=Sensor Overview Member=Component H1E Holes - x inch
+Added Member To Class: ClassName=Sensor Overview Member=Component P? CC 2,5/10-GF-5,08-LR P26THR

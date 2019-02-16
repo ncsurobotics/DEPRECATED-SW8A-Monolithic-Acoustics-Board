@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IMU_TX Pin=X5-8
+Removed Pin From Net: NetName=IMU_RX Pin=X5-10
+Removed Pin From Net: NetName=9V Pin=X5-12
+Added Pin To Net: NetName=IMU_TX Pin=X5-10
+Added Pin To Net: NetName=IMU_RX Pin=X5-12
+Added Pin To Net: NetName=9V Pin=X5-14

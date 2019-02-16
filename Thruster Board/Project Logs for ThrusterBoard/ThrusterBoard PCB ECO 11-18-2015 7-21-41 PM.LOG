@@ -1,0 +1,13 @@
+Added Component: Designator=R5F(R0805)
+Added Component: Designator=X2F(2x3 Header)
+Added Pin To Net: NetName=RESET Pin=R5F-1
+Added Pin To Net: NetName=PRE_3V3 Pin=R5F-2
+Added Pin To Net: NetName=PRE_3V3 Pin=X2F-2
+Added Pin To Net: NetName=RESET Pin=X2F-5
+Added Pin To Net: NetName=GND Pin=X2F-6
+Change Net Name : Old Net Name=PRE_3V3 New Net Name=3V3
+Added Pin To Net: NetName=NetU2F_34 Pin=U2F-34
+Added Pin To Net: NetName=NetU2F_34 Pin=X2F-1
+Added Net: Name=NetU2F_34
+Added Member To Class: ClassName=U_Microcontroller Member=Component R5F Resistor
+Added Member To Class: ClassName=U_Microcontroller Member=Component X2F Header

@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Backplane Board.PcbDoc   12/14/2015  11:22:55 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Backplane Board.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          38               24.46 Inch (621.33 mm)
+T2        40mil (1.016mm)          Round          18               8.58 Inch (217.86 mm)
+T3        44.4mil (1.12776mm)      Round          2                0.10 Inch (2.50 mm)
+T4        45mil (1.143mm)          Round          8                0.97 Inch (24.69 mm)
+T5        45.6mil (1.15824mm)      Round          2                1.70 Inch (43.26 mm)
+T6        47.2mil (1.19888mm)      Round          1                0.00 Inch (0.00 mm)
+T7        60.1mil (1.52654mm)      Round          2                1.70 Inch (43.26 mm)
+T8        60.2mil (1.52908mm)      Round          44               13.03 Inch (331.01 mm)
+T9        75mil (1.905mm)          Round          14               3.48 Inch (88.33 mm)
+T10       118mil (2.9972mm)        Round          4                2.98 Inch (75.62 mm)
+---------------------------------------------------------------------------
+Totals                                            133              57.00 Inch (1447.86 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,6 @@
+Added Component: Designator=X1A(1x2 Header)
+Added Pin To Net: NetName=KILL ELECTRONICS Pin=X1A-1
+Added Net: Name=REMOTE ELECTRICAL POWER
+Added Net: Name=REMOTE MASTER POWER
+Added Member To Class: ClassName=Backplane Board Member=Component P9A Serial Board
+Added Member To Class: ClassName=Backplane Board Member=Component X1A Header

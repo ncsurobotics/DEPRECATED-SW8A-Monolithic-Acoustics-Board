@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=Serial Board Overview Member=U2D
+Added Pin To Net: NetName=NetU2D_3 Pin=U2D-3
+Added Pin To Net: NetName=NetU2D_3 Pin=X3D-18
+Added Net: Name=NetU2D_3
+Added Pin To Net: NetName=NetU2D_4 Pin=U2D-4
+Added Pin To Net: NetName=NetU2D_4 Pin=X3D-16
+Added Net: Name=NetU2D_4
+Added Pin To Net: NetName=NetU2D_5 Pin=U2D-5
+Added Pin To Net: NetName=NetU2D_5 Pin=X3D-19
+Added Net: Name=NetU2D_5
+Added Pin To Net: NetName=NetU2D_6 Pin=U2D-6
+Added Pin To Net: NetName=NetU2D_6 Pin=X3D-17
+Added Net: Name=NetU2D_6
+Added Pin To Net: NetName=NetU2D_7 Pin=U2D-7
+Added Pin To Net: NetName=NetU2D_7 Pin=X3D-15
+Added Net: Name=NetU2D_7
+Added Pin To Net: NetName=NetU2D_10 Pin=U2D-10
+Added Pin To Net: NetName=NetU2D_10 Pin=X3D-13
+Added Net: Name=NetU2D_10
+Added Pin To Net: NetName=NetU2D_11 Pin=U2D-11
+Added Pin To Net: NetName=NetU2D_11 Pin=X3D-11
+Added Net: Name=NetU2D_11
+Added Pin To Net: NetName=NetU2D_22 Pin=U2D-22
+Added Pin To Net: NetName=NetU2D_22 Pin=X3D-3
+Added Net: Name=NetU2D_22
+Added Pin To Net: NetName=NetU2D_23 Pin=U2D-23
+Added Pin To Net: NetName=NetU2D_23 Pin=X3D-5
+Added Net: Name=NetU2D_23
+Added Pin To Net: NetName=NetU2D_24 Pin=U2D-24
+Added Pin To Net: NetName=NetU2D_24 Pin=X3D-7
+Added Net: Name=NetU2D_24
+Added Pin To Net: NetName=NetU2D_25 Pin=U2D-25
+Added Pin To Net: NetName=NetU2D_25 Pin=X3D-9
+Added Net: Name=NetU2D_25
+Added Member To Class: ClassName=Serial Board Overview Member=Component U1D AP1117E33G-13

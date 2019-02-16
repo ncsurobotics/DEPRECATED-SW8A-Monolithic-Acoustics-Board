@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=3V3 Pin=C16D-1
+Removed Pin From Net: NetName=GND Pin=C16D-2
+Removed Pin From Net: NetName=1V8 Pin=C20D-1
+Removed Pin From Net: NetName=GND Pin=C20D-2
+Removed Pin From Net: NetName=1V8 Pin=C21D-1
+Removed Pin From Net: NetName=GND Pin=C21D-2
+Removed Pin From Net: NetName=3V3 Pin=C23D-1
+Removed Pin From Net: NetName=GND Pin=C23D-2
+Removed Pin From Net: NetName=3V3 Pin=C24D-1
+Removed Pin From Net: NetName=GND Pin=C24D-2
+Removed Pin From Net: NetName=3V3 Pin=C25D-1
+Removed Pin From Net: NetName=GND Pin=C25D-2
+Removed Pin From Net: NetName=UART_TX1 Pin=X3D-10
+Removed Pin From Net: NetName=UART_RX1 Pin=X3D-12
+Removed Member From Class: ClassName=USB to Serial Member=C20D
+Removed Member From Class: ClassName=USB to Serial Member=C21D
+Removed Member From Class: ClassName=USB to Serial Member=C23D
+Removed Member From Class: ClassName=USB to Serial Member=C24D
+Removed Member From Class: ClassName=USB to Serial Member=C25D
+Added Pin To Net: NetName=GND Pin=C16D-1
+Added Pin To Net: NetName=3V3 Pin=C16D-2
+Added Pin To Net: NetName=UART->ACOUSTICS Pin=X3D-10
+Added Net: Name=UART->ACOUSTICS
+Added Pin To Net: NetName=UART<-ACOUSTICS Pin=X3D-12
+Added Net: Name=UART<-ACOUSTICS

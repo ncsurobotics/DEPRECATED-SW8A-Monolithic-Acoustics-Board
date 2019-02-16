@@ -1,0 +1,14 @@
+Added Component: Designator=H1D(110mil Holes - 1.0 Inch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X3A(2x2 Header w/ division)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU4D_48 Pin=U4D-48
+Added Pin To Net: NetName=NetU4D_48 Pin=X3A-3
+Added Net: Name=NetU4D_48
+Added Pin To Net: NetName=NetU4D_52 Pin=U4D-52
+Added Pin To Net: NetName=NetU4D_52 Pin=X3A-1
+Added Net: Name=NetU4D_52
+Added Member To Class: ClassName=USB to Serial Member=Component H1D Holes - x inch
+Added Member To Class: ClassName=USB to Serial Member=Component X3A Header
+Added Room: Name=ATXMega32 Master
+Added Room: Name=Serial Board Overview

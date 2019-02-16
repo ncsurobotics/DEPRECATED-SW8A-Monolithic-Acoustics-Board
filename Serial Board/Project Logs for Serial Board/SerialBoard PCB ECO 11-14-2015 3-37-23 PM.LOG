@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=X3D-2
+Removed Pin From Net: NetName=SCL Pin=X3D-4
+Removed Pin From Net: NetName=SDA Pin=X3D-6
+Added Pin To Net: NetName=SCL Pin=X3D-2
+Added Pin To Net: NetName=SDA Pin=X3D-4
+Added Pin To Net: NetName=5V Pin=X3D-6

@@ -1,0 +1,12 @@
+Added Component: Designator=X2A(2x2 Header w/ division)
+Added Component: Designator=X3A(2x2 Header w/ division)
+Added Pin To Net: NetName=REMOTE MASTER POWER Pin=X2A-1
+Added Pin To Net: NetName=GND Pin=X2A-2
+Added Pin To Net: NetName=REMOTE MASTER POWER Pin=X2A-3
+Added Pin To Net: NetName=GND Pin=X2A-4
+Added Pin To Net: NetName=REMOTE ELECTRICAL POWER Pin=X3A-1
+Added Pin To Net: NetName=GND Pin=X3A-2
+Added Pin To Net: NetName=REMOTE ELECTRICAL POWER Pin=X3A-3
+Added Pin To Net: NetName=GND Pin=X3A-4
+Added Member To Class: ClassName=Backplane Board Member=Component X2A Header
+Added Member To Class: ClassName=Backplane Board Member=Component X3A Header

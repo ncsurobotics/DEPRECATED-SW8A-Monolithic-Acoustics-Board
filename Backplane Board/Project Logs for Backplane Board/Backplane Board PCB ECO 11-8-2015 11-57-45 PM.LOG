@@ -1,0 +1,12 @@
+Added Component: Designator=F4(Protected Fuse Clip)
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F2-2
+Added Pin To Net: NetName=NetF1_1 Pin=F2-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=P4-1
+Added Pin To Net: NetName=NetF3_1 Pin=P4-1
+Added Net: Name=NetF3_1
+Added Member To Class: ClassName=Backplane Board Member=Component F4 Fuse

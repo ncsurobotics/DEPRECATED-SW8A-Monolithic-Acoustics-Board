@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=C2F-1
+Removed Pin From Net: NetName=5V_ISO Pin=P1F-3
+Removed Pin From Net: NetName=5V Pin=U1F-SHDN
+Removed Pin From Net: NetName=5V Pin=U1F-Vin
+Added Pin To Net: NetName=5V_ISO Pin=C2F-1
+Added Pin To Net: NetName=5V Pin=P1F-3
+Added Pin To Net: NetName=5V_ISO Pin=U1F-SHDN
+Added Pin To Net: NetName=5V_ISO Pin=U1F-Vin
+Change Net Name : Old Net Name=5V New Net Name=5V_ISO
+Change Net Name : Old Net Name=5V_ISO New Net Name=5V
