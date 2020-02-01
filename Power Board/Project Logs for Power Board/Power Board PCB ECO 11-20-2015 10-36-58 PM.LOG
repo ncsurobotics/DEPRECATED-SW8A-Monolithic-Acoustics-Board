@@ -1,4 +1,0 @@
-Change Component Designator: OldDesignator=C4BA NewDesignator=C4B
-Change Component Designator: OldDesignator=C4BB NewDesignator=C8B
-Added Member To Class: ClassName=U_Power Conditioning Member=Component C4B CapPol
-Added Member To Class: ClassName=U_Power Conditioning Member=Component C8B CapPol

@@ -1,8 +1,0 @@
-Added Component: Designator=C4A(RADIAL-5MM)
-Added Component: Designator=C4B(RADIAL-5MM)
-Added Pin To Net: NetName=NetBP1_3 Pin=C4A-1
-Added Pin To Net: NetName=GND Pin=C4A-2
-Added Pin To Net: NetName=NetBP1_1 Pin=C4B-1
-Added Pin To Net: NetName=GND Pin=C4B-2
-Added Member To Class: ClassName=D1 Member=Component C4A (C4) CapPol
-Added Member To Class: ClassName=D2 Member=Component C4B (C4) CapPol

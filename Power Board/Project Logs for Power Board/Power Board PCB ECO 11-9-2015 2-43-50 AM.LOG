@@ -1,4 +1,0 @@
-Change Room Name: Old Name=D3 New Name=Power Board
-Change Room Scope: Old Scope=InComponentClass('D3') New Scope=InComponentClass('Power Board')
-Change Room Name: Old Name=D4 New Name=U_Power Conditioning
-Change Room Scope: Old Scope=InComponentClass('D4') New Scope=InComponentClass('U_Power Conditioning')

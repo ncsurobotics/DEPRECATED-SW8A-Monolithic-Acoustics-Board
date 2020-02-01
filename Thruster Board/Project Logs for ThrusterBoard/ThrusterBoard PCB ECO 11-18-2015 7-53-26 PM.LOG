@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=BLDC1 Pin=P6F-1
-Removed Pin From Net: NetName=BLDC2 Pin=P8F-1
-Added Pin To Net: NetName=GND Pin=P6F-1
-Added Pin To Net: NetName=BLDC1 Pin=P6F-3
-Added Pin To Net: NetName=GND Pin=P8F-1
-Added Pin To Net: NetName=BLDC2 Pin=P8F-3

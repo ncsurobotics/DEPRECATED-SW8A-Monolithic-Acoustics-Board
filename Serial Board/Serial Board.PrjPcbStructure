@@ -1,4 +1,0 @@
-Record=TopLevelDocument|FileName=Serial Board Overview.SchDoc
-Record=SheetSymbol|SourceDocument=Serial Board Overview.SchDoc|Designator=ATXMega32 Master|SchDesignator=ATXMega32 Master|FileName=Serial Microcontroller.SchDoc|SymbolType=Normal|RawFileName=Serial Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Serial Board Overview.SchDoc|Designator=Depth Sensor|SchDesignator=Depth Sensor|FileName=DepthSensor.SchDoc|SymbolType=Normal|RawFileName=DepthSensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Serial Board Overview.SchDoc|Designator=USB to Serial|SchDesignator=USB to Serial|FileName=Serial.SchDoc|SymbolType=Normal|RawFileName=Serial.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

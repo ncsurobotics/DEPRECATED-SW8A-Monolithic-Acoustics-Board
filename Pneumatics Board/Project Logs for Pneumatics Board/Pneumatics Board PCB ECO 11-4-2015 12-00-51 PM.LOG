@@ -1,7 +1,0 @@
-Added Component: Designator=P1(HDR1X3 - Female - Molex)
-Added Pin To Net: NetName=3V3 Pin=P1-3
-Added Pin To Net: NetName=NetP1_2 Pin=P1-2
-Added Pin To Net: NetName=NetP1_2 Pin=R1-2
-Added Pin To Net: NetName=NetP1_2 Pin=U7-4
-Added Net: Name=NetP1_2
-Added Member To Class: ClassName=Pneumatics Board Member=Component P1 Header 3 - Female - Molex

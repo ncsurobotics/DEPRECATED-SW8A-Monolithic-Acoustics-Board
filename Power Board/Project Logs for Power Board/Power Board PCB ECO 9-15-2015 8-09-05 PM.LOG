@@ -1,4 +1,0 @@
-Change Component DesignItemId : Designator=Rel1 Old DesignItemId=DPST Relay, 12V, 30A New DesignItemId=DPST Relay, 24V, 30A
-Change Component DesignItemId : Designator=Rel2 Old DesignItemId=DPST Relay, 12V, 30A New DesignItemId=DPST Relay, 24V, 30A
-Change Component Comment : Designator=Rel1 Old Comment=DPST Relay, 12V, 30A New Comment=DPST Relay, 24V, 30A
-Change Component Comment : Designator=Rel2 Old Comment=DPST Relay, 12V, 30A New Comment=DPST Relay, 24V, 30A

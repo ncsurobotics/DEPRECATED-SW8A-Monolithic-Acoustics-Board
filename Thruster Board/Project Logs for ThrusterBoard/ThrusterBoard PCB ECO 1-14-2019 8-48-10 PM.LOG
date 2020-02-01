@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=VR POWER Pin=Pa1F-1
-Removed Pin From Net: NetName=VR POWER Pin=Pa3F-1
-Removed Pin From Net: NetName=GND Pin=Pa4F-1
-Removed Member From Class: ClassName=Motor Control Member=Pa1F
-Removed Member From Class: ClassName=Motor Control Member=Pa3F
-Removed Member From Class: ClassName=Motor Control Member=Pa4F
-Removed Member From Class: ClassName=ThrusterPower Member=VR POWER

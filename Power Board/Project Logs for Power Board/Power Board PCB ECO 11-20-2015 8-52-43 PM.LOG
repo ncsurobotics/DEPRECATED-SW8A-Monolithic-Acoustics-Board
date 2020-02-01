@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=PRE_3V3 Pin=X1B-2
-Removed Pin From Net: NetName=RESET Pin=X1B-5
-Removed Pin From Net: NetName=GND Pin=X1B-6
-Removed Member From Class: ClassName=U_Microcontroller Member=X1B
-Added Pin To Net: NetName=NetQ1B_G Pin=Q1B-G
-Added Pin To Net: NetName=NetQ1B_G Pin=U2B-26
-Added Net: Name=NetQ1B_G
-Added Pin To Net: NetName=NetU2B_27 Pin=U2B-27
-Added Net: Name=NetU2B_27

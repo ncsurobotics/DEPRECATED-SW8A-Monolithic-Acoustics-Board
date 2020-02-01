@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=RAW_24V Pin=C6B-1
-Removed Pin From Net: NetName=RAW_24V Pin=U6B-2
-Added Pin To Net: NetName=NetREL1B_3 Pin=C6B-1
-Added Pin To Net: NetName=NetREL1B_3 Pin=U6B-2
-Change Net Name : Old Net Name=NetREL1B_3 New Net Name=NetC6B_1

@@ -1,8 +1,0 @@
-Change Net Name : Old Net Name=NetD1_2 New Net Name=NetR6F_2
-Change Net Name : Old Net Name=NetD2_2 New Net Name=NetR7F_2
-Added Member To Class: ClassName=M1 Member=Component MC1F_M1 (MC1F) Motor Controller
-Added Member To Class: ClassName=M2 Member=Component MC1F_M2 (MC1F) Motor Controller
-Added Member To Class: ClassName=M3 Member=Component MC1F_M3 (MC1F) Motor Controller
-Added Member To Class: ClassName=M4 Member=Component MC1F_M4 (MC1F) Motor Controller
-Added Member To Class: ClassName=M5 Member=Component MC1F_M5 (MC1F) Motor Controller
-Added Member To Class: ClassName=M6 Member=Component MC1F_M6 (MC1F) Motor Controller

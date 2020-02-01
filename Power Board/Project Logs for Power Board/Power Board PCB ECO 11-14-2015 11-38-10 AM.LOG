@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=RAW_24V Pin=U1B-CE
-Change Component Footprint: Designator=U1B Old Footprint=XC6701B332MR New Footprint=MCP1804T-3302I/OT
-Change Component Comment : Designator=U1B Old Comment=XC6701B332 New Comment=MCP1804T-3302I/OT
-Added Pin To Net: NetName=RAW_24V Pin=U1B-SHDN

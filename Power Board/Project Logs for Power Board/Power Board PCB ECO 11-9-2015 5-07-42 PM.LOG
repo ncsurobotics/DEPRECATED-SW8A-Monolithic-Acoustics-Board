@@ -1,6 +1,0 @@
-Change Component Comment : Designator=BP1 Old Comment=Header 10 New Comment=Phoenix Header 10
-Added Component: Designator=H1(Holes - 2.75 Inch)
-Added Pin To Net: NetName=NetBP1_1 Pin=BP1-2
-Added Pin To Net: NetName=NetBP1_3 Pin=BP1-4
-Added Pin To Net: NetName=NetBP1_5 Pin=BP1-6
-Added Member To Class: ClassName=Power Board Member=Component H1 Holes - x inch

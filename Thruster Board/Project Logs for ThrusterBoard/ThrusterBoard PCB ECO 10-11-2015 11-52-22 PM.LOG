@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=RESET Pin=R21-1
-Removed Pin From Net: NetName=RESET Pin=X2-5
-Removed Pin From Net: NetName=GND Pin=X2-6
-Removed Member From Class: ClassName=U_Microcontroller Member=R21
-Removed Member From Class: ClassName=U_Microcontroller Member=X2
-Added Room: Name=Motor Control
