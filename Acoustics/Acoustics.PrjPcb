@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IELZDXAK
 
 [Document7]
-DocumentPath=Acoustics Board.PcbDoc
+DocumentPath=D:\URC\SJ1-3555NG\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=URMHJTIX
+DocumentUniqueId=JVHTISAB
 
 [Document8]
 DocumentPath=D:\URC\dblib_cap_murata\capacitor_dblib.SchLib
@@ -191,6 +191,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YKOLMNIA
 
 [Document10]
+DocumentPath=D:\URC\SJ1-3555NG\SnapEDApcb.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document11]
 DocumentPath=D:\URC\dblib_res_panasonic_erj\resistor_footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBFBVRCH
 
-[Document11]
+[Document12]
 DocumentPath=D:\URC\dblib_cap_murata\cap_footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,6 +240,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXEXNHAB
+
+[Document13]
+DocumentPath=Acoustics Board.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NPAPYIEK
 
 [Configuration1]
 Name=Sources
@@ -343,7 +377,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON4072A5 (XP-420 Series)
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
